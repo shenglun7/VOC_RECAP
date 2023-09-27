@@ -1,0 +1,44 @@
+Parameter,SAPRC
+Dichloromethane,NROG
+Chloroform,NROG
+CFC-11,NROG
+CFC-12,NROG
+Carbon Tetrachloride,NROG
+CFC-113,NROG
+CFC-114,NROG
+Tetrachloroethene,NROG
+1_2-Dichlorobenzene,ARO1
+1_4-Dichlorobenzene,ARO1
+PCBTF,ARO1
+N-Butane,ALK3
+Isobutane,ALK3
+N-Pentane,ALK4
+Isopentane,ALK4
+2-Methyl pentane,ALK4
+Butene,OLE1
+Propylene,OLE1
+cis-2-Pentene,OLE2
+Isoprene,ISOPRENE
+alpha-Pinene,TERP
+MVK,MVK
+Benzene,BENZENE
+Toluene,ARO1
+Ethylbenzene,ARO1
+Propylbenzene,ARO1
+m_p-Xylene,ARO2
+o-Xylene,ARO2
+p-Isopropyl Toluene,ARO2
+Naphthalene,ARO2
+Methanol,MEOH
+Ethanol,ETOH
+Phenol,PHEN
+Formaldehyde,HCHO
+Acetaldehyde,CCHO
+Isovaleraldehyde,RCHO
+Hexaldehyde,RCHO
+m_p-Tolualdehyde,BALD
+Phenylacetaldehyde,BALD
+Cyclohexanone,PROD2
+Methyl acetate,ALK2
+n-Butyl acetate,ALK2
+D5-Siloxane,NROG

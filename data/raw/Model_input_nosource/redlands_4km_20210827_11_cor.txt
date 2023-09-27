@@ -1,0 +1,671 @@
+ grid location:            73           45
+ reading from file: **/data/n197a/yusheng/COVID19_v2/SOUTHCA4KM_2020_08_waccm_noOgv_scaled_v5_230acm2_nokzz/grds_SOUTHCA4KM_2020_08_waccm_noOgv_scaled_v5_230acm2_nokzz.20aug28_11**
+ found target grid cell
+  1 O3               7.00e-02
+  2 NO               5.60e-04
+  3 NO2              2.00e-03
+  4 NO3              1.90e-07
+  5 N2O5             2.50e-07
+  6 HNO3             2.20e-03
+  7 HONO             3.10e-05
+  8 HNO4             1.10e-05
+  9 SO2              1.20e-04
+ 10 SULF             3.60e-07
+ 11 NPHE             9.01e-06
+ 12 XN               1.60e-04
+ 13 RNO3             3.00e-04
+ 14 PAN              9.90e-04
+ 15 PAN2             4.59e-04
+ 16 PBZN             1.90e-06
+ 17 MAPAN            9.00e-05
+ 18 CLNO             1.30e-09
+ 19 CLONO            3.30e-08
+ 20 CLNO2            8.70e-08
+ 21 CLONO2           4.10e-06
+ 22 ALK5             6.03e-04
+ 23 ALK5RXN          1.90e-08
+ 24 ARO2             7.33e-04
+ 25 ARO2RO2          7.10e-11
+ 26 XYLNRXN          4.60e-11
+ 27 XYLHRXN          4.30e-15
+ 28 ARO1             5.46e-04
+ 29 ARO1RO2          5.20e-09
+ 30 TOLNRXN          3.10e-09
+ 31 TOLHRXN          3.20e-13
+ 32 BENZENE          2.57e-04
+ 33 BENZRO2          1.40e-08
+ 34 BNZNRXN          8.50e-09
+ 35 BNZHRXN          9.10e-13
+ 36 TERP             1.84e-03
+ 37 TRPRXN           5.10e-20
+ 38 ISOPRENE         1.04e-03
+ 39 ISOPRXN          1.20e-15
+ 40 SESQ             9.20e-21
+ 41 SESQRXN          9.20e-21
+ 42 HO2              1.70e-05
+ 43 CO               3.89e-01
+ 44 HO2H             5.57e-03
+ 45 MEO2             3.20e-06
+ 46 HCHO             4.28e-03
+ 47 COOH             5.20e-04
+ 48 MEOH             5.30e-05
+ 49 RO2C             1.10e-05
+ 50 RO2XC            1.00e-06
+ 51 MECO3            4.40e-07
+ 52 CCOOH            1.80e-04
+ 53 RCO3             1.30e-07
+ 54 RCOOH            4.20e-05
+ 55 BZCO3            1.40e-09
+ 56 MACO3            1.00e-07
+ 57 ACET             1.15e-02
+ 58 CRES             4.27e-06
+ 59 CCHO             2.14e-03
+ 60 RCHO             1.88e-04
+ 61 MEK              3.73e-05
+ 62 HCOOH            1.00e-04
+ 63 ROOH             1.40e-05
+ 64 R6OOH            1.60e-05
+ 65 PROD2            2.38e-06
+ 66 RAOOH            1.70e-07
+ 67 MGLY             7.30e-05
+ 68 IPRD             2.27e-05
+ 69 GLY              4.40e-05
+ 70 AFG1             3.39e-06
+ 71 AFG2             3.53e-06
+ 72 HCOCO3           1.70e-09
+ 73 BACL             4.40e-06
+ 74 CATL             7.20e-07
+ 75 AFG3             1.80e-05
+ 76 XYNL             2.05e-06
+ 77 BALD             1.90e-04
+ 78 PHEN             5.24e-05
+ 79 MACR             1.50e-04
+ 80 MVK              5.19e-04
+ 81 AFG4             3.18e-19
+ 82 ETOH             9.06e-03
+ 83 xAFG4            9.20e-21
+ 84 CH4              2.20e+00
+ 85 ETHENE           2.09e-03
+ 86 ACETYLEN         1.70e-03
+ 87 ALK1             1.32e-03
+ 88 ALK2             5.50e-04
+ 89 ALK3             5.13e-04
+ 90 ALK4             2.38e-03
+ 91 OLE1             4.26e-04
+ 92 OLE2             1.10e-05
+ 93 CL2              8.10e-11
+ 94 CL               1.40e-10
+ 95 HCL              6.90e-04
+ 96 CLO              1.40e-08
+ 97 HOCL             5.20e-07
+ 98 CLCCHO           8.60e-07
+ 99 CLACET           9.10e-07
+100 NH3              3.20e-03
+101 GDENS            1.10e+00
+102 MMOLES           1.10e+06
+103 XICBC            2.60e+01
+104 YICBC            1.00e+01
+105 ZICBC            6.70e-15
+106 SV.ALK           1.50e-07
+107 SV.XYL1          1.80e-09
+108 SV.XYL2          4.70e-10
+109 SV.XYL3          6.30e-08
+110 SV.TOL1          4.90e-08
+111 SV.TOL2          4.60e-08
+112 SV.TOL3          1.10e-08
+113 SV.BNZ1          1.20e-07
+114 SV.BNZ2          1.20e-06
+115 SV.BNZ3          4.50e-09
+116 SV.TRP1          7.40e-12
+117 SV.TRP2          8.20e-13
+118 SV.ISO1          2.10e-13
+119 SV.ISO2          1.70e-11
+120 SV.TRP3          4.80e-10
+121 SV.SQT           3.00e-20
+122 AALK             1.60e-03
+123 AXYL1            8.20e-06
+124 AXYL2            2.00e-07
+125 ATOL1            1.20e-04
+126 ATOL2            2.20e-05
+127 ABNZ1            1.00e-03
+128 ABNZ2            9.10e-05
+129 ATRP1            9.10e-09
+130 ATRP2            9.10e-11
+131 AISO1            7.90e-12
+132 AISO2            3.90e-08
+133 ASQT             1.50e-16
+134 AXYL3            3.20e-03
+135 ATOL3            5.50e-04
+136 ABNZ3            1.40e-04
+137 ATRP3            5.60e-03
+138 AOLGA            6.20e-03
+139 AOLGB            7.20e-05
+140 AISO3            1.30e-20
+141 NA(1)            1.70e+00
+142 N(-III)          3.40e-02
+143 CL(-1)           3.90e-04
+144 S(VI)            1.20e+00
+145 N(V)             2.50e-05
+146 CHCL3            1.30e-20
+147 ALK5_X1          6.03e-04
+148 ALK5_X2          0.00e+00
+149 ALK5_X3          0.00e+00
+150 ALK5_X4          0.00e+00
+151 ALK5_X5          0.00e+00
+152 ALK5_X6          0.00e+00
+153 ALK5_X7          0.00e+00
+154 ALK5_X8          0.00e+00
+155 ALK5_X9          0.00e+00
+156 ALK5RXN_X1       8.90e-08
+157 ALK5RXN_X2       4.30e-08
+158 ALK5RXN_X3       8.60e-07
+159 ALK5RXN_X4       1.30e-08
+160 ALK5RXN_X5       2.90e-11
+161 ALK5RXN_X6       8.90e-09
+162 ALK5RXN_X7       2.30e-09
+163 ALK5RXN_X8       3.70e-09
+164 ALK5RXN_X9       8.40e-07
+165 SV.ALK_X1        1.70e-07
+166 SV.ALK_X2        6.80e-08
+167 SV.ALK_X3        1.70e-06
+168 SV.ALK_X4        1.80e-08
+169 SV.ALK_X5        4.60e-11
+170 SV.ALK_X6        1.80e-08
+171 SV.ALK_X7        6.10e-09
+172 SV.ALK_X8        4.40e-09
+173 SV.ALK_X9        1.60e-06
+174 ARO2RO2_X1       1.50e-07
+175 ARO2RO2_X2       1.00e-07
+176 ARO2RO2_X3       1.40e-07
+177 ARO2RO2_X4       2.40e-08
+178 ARO2RO2_X5       2.00e-12
+179 ARO2RO2_X6       6.10e-09
+180 ARO2RO2_X7       1.50e-09
+181 ARO2RO2_X8       5.90e-09
+182 ARO2RO2_X9       4.90e-07
+183 XYLNRXN_X1       9.10e-08
+184 XYLNRXN_X2       6.20e-08
+185 XYLNRXN_X3       8.90e-08
+186 XYLNRXN_X4       1.40e-08
+187 XYLNRXN_X5       1.40e-12
+188 XYLNRXN_X6       4.20e-09
+189 XYLNRXN_X7       1.00e-09
+190 XYLNRXN_X8       3.90e-09
+191 XYLNRXN_X9       3.00e-07
+192 SV.XYL1_X1       2.50e-07
+193 SV.XYL1_X2       1.20e-07
+194 SV.XYL1_X3       2.90e-07
+195 SV.XYL1_X4       2.20e-08
+196 SV.XYL1_X5       5.40e-11
+197 SV.XYL1_X6       1.70e-08
+198 SV.XYL1_X7       4.70e-09
+199 SV.XYL1_X8       5.00e-09
+200 SV.XYL1_X9       7.50e-07
+201 SV.XYL2_X1       2.80e-07
+202 SV.XYL2_X2       1.50e-07
+203 SV.XYL2_X3       3.40e-07
+204 SV.XYL2_X4       2.80e-08
+205 SV.XYL2_X5       1.30e-11
+206 SV.XYL2_X6       1.90e-08
+207 SV.XYL2_X7       4.70e-09
+208 SV.XYL2_X8       8.30e-09
+209 SV.XYL2_X9       9.00e-07
+210 XYLHRXN_X1       8.90e-12
+211 XYLHRXN_X2       6.00e-12
+212 XYLHRXN_X3       8.60e-12
+213 XYLHRXN_X4       1.40e-12
+214 XYLHRXN_X5       1.30e-16
+215 XYLHRXN_X6       3.80e-13
+216 XYLHRXN_X7       9.30e-14
+217 XYLHRXN_X8       3.50e-13
+218 XYLHRXN_X9       2.90e-11
+219 SV.XYL3_X1       2.20e-07
+220 SV.XYL3_X2       1.00e-07
+221 SV.XYL3_X3       6.50e-07
+222 SV.XYL3_X4       1.80e-08
+223 SV.XYL3_X5       9.30e-11
+224 SV.XYL3_X6       1.60e-08
+225 SV.XYL3_X7       5.60e-09
+226 SV.XYL3_X8       3.30e-09
+227 SV.XYL3_X9       9.40e-07
+228 ARO1RO2_X1       8.00e-08
+229 ARO1RO2_X2       4.40e-08
+230 ARO1RO2_X3       1.60e-07
+231 ARO1RO2_X4       1.30e-08
+232 ARO1RO2_X5       1.60e-10
+233 ARO1RO2_X6       1.00e-07
+234 ARO1RO2_X7       9.70e-10
+235 ARO1RO2_X8       2.70e-09
+236 ARO1RO2_X9       3.80e-07
+237 TOLNRXN_X1       4.80e-08
+238 TOLNRXN_X2       2.60e-08
+239 TOLNRXN_X3       1.00e-07
+240 TOLNRXN_X4       8.00e-09
+241 TOLNRXN_X5       9.70e-11
+242 TOLNRXN_X6       6.70e-08
+243 TOLNRXN_X7       5.90e-10
+244 TOLNRXN_X8       1.70e-09
+245 TOLNRXN_X9       2.40e-07
+246 SV.TOL1_X1       1.50e-07
+247 SV.TOL1_X2       7.70e-08
+248 SV.TOL1_X3       3.30e-07
+249 SV.TOL1_X4       2.10e-08
+250 SV.TOL1_X5       2.60e-10
+251 SV.TOL1_X6       2.20e-07
+252 SV.TOL1_X7       2.80e-09
+253 SV.TOL1_X8       4.70e-09
+254 SV.TOL1_X9       7.50e-07
+255 SV.TOL2_X1       2.60e-07
+256 SV.TOL2_X2       1.30e-07
+257 SV.TOL2_X3       5.60e-07
+258 SV.TOL2_X4       3.20e-08
+259 SV.TOL2_X5       4.40e-10
+260 SV.TOL2_X6       3.90e-07
+261 SV.TOL2_X7       4.20e-09
+262 SV.TOL2_X8       7.90e-09
+263 SV.TOL2_X9       1.30e-06
+264 TOLHRXN_X1       5.10e-12
+265 TOLHRXN_X2       2.80e-12
+266 TOLHRXN_X3       1.10e-11
+267 TOLHRXN_X4       8.20e-13
+268 TOLHRXN_X5       1.00e-14
+269 TOLHRXN_X6       6.80e-12
+270 TOLHRXN_X7       6.20e-14
+271 TOLHRXN_X8       1.70e-13
+272 TOLHRXN_X9       2.50e-11
+273 SV.TOL3_X1       2.20e-08
+274 SV.TOL3_X2       1.10e-08
+275 SV.TOL3_X3       4.80e-08
+276 SV.TOL3_X4       3.30e-09
+277 SV.TOL3_X5       3.80e-11
+278 SV.TOL3_X6       3.00e-08
+279 SV.TOL3_X7       4.50e-10
+280 SV.TOL3_X8       6.90e-10
+281 SV.TOL3_X9       1.10e-07
+282 BENZRO2_X1       9.00e-09
+283 BENZRO2_X2       5.80e-09
+284 BENZRO2_X3       1.50e-10
+285 BENZRO2_X4       9.20e-21
+286 BENZRO2_X5       5.10e-10
+287 BENZRO2_X6       1.80e-09
+288 BENZRO2_X7       7.30e-10
+289 BENZRO2_X8       1.60e-09
+290 BENZRO2_X9       1.30e-08
+291 BNZNRXN_X1       5.40e-09
+292 BNZNRXN_X2       3.50e-09
+293 BNZNRXN_X3       9.00e-11
+294 BNZNRXN_X4       9.20e-21
+295 BNZNRXN_X5       3.10e-10
+296 BNZNRXN_X6       1.20e-09
+297 BNZNRXN_X7       4.40e-10
+298 BNZNRXN_X8       9.70e-10
+299 BNZNRXN_X9       8.10e-09
+300 SV.BNZ1_X1       1.50e-08
+301 SV.BNZ1_X2       9.80e-09
+302 SV.BNZ1_X3       2.60e-10
+303 SV.BNZ1_X4       2.00e-19
+304 SV.BNZ1_X5       6.00e-09
+305 SV.BNZ1_X6       3.00e-09
+306 SV.BNZ1_X7       1.80e-09
+307 SV.BNZ1_X8       2.60e-09
+308 SV.BNZ1_X9       2.40e-08
+309 SV.BNZ2_X1       2.60e-07
+310 SV.BNZ2_X2       1.60e-07
+311 SV.BNZ2_X3       4.40e-09
+312 SV.BNZ2_X4       2.10e-18
+313 SV.BNZ2_X5       5.30e-08
+314 SV.BNZ2_X6       5.50e-08
+315 SV.BNZ2_X7       2.70e-08
+316 SV.BNZ2_X8       4.20e-08
+317 SV.BNZ2_X9       4.00e-07
+318 BNZHRXN_X1       5.80e-13
+319 BNZHRXN_X2       3.70e-13
+320 BNZHRXN_X3       9.60e-15
+321 BNZHRXN_X4       9.20e-21
+322 BNZHRXN_X5       3.40e-14
+323 BNZHRXN_X6       1.20e-13
+324 BNZHRXN_X7       4.70e-14
+325 BNZHRXN_X8       1.00e-13
+326 BNZHRXN_X9       8.60e-13
+327 SV.BNZ3_X1       4.10e-10
+328 SV.BNZ3_X2       2.80e-10
+329 SV.BNZ3_X3       6.80e-12
+330 SV.BNZ3_X4       1.30e-19
+331 SV.BNZ3_X5       2.20e-10
+332 SV.BNZ3_X6       7.60e-11
+333 SV.BNZ3_X7       5.20e-11
+334 SV.BNZ3_X8       7.20e-11
+335 SV.BNZ3_X9       6.70e-10
+336 TERP_X1          3.20e-05
+337 TERP_X2          0.00e+00
+338 TERP_X3          0.00e+00
+339 TERP_X4          0.00e+00
+340 TERP_X5          0.00e+00
+341 TERP_X6          0.00e+00
+342 TERP_X7          0.00e+00
+343 TERP_X8          0.00e+00
+344 TERP_X9          0.00e+00
+345 TRPRXN_X1        8.60e-10
+346 TRPRXN_X2        6.10e-10
+347 TRPRXN_X3        4.80e-08
+348 TRPRXN_X4        1.30e-06
+349 TRPRXN_X5        9.20e-21
+350 TRPRXN_X6        9.20e-21
+351 TRPRXN_X7        3.70e-14
+352 TRPRXN_X8        1.70e-20
+353 TRPRXN_X9        2.70e-09
+354 SV.TRP1_X1       7.10e-09
+355 SV.TRP1_X2       2.80e-09
+356 SV.TRP1_X3       4.10e-07
+357 SV.TRP1_X4       4.40e-06
+358 SV.TRP1_X5       1.50e-12
+359 SV.TRP1_X6       5.60e-20
+360 SV.TRP1_X7       1.50e-12
+361 SV.TRP1_X8       1.40e-16
+362 SV.TRP1_X9       2.30e-08
+363 SV.TRP2_X1       4.60e-09
+364 SV.TRP2_X2       2.30e-09
+365 SV.TRP2_X3       2.40e-07
+366 SV.TRP2_X4       4.60e-06
+367 SV.TRP2_X5       1.40e-13
+368 SV.TRP2_X6       3.10e-20
+369 SV.TRP2_X7       4.50e-13
+370 SV.TRP2_X8       2.40e-17
+371 SV.TRP2_X9       1.40e-08
+372 ISOPRENE_X1      4.70e-08
+373 ISOPRENE_X2      3.70e-08
+374 ISOPRENE_X3      1.30e-11
+375 ISOPRENE_X4      8.80e-04
+376 ISOPRENE_X5      2.30e-16
+377 ISOPRENE_X6      9.20e-21
+378 ISOPRENE_X7      4.20e-13
+379 ISOPRENE_X8      9.20e-21
+380 ISOPRENE_X9      5.50e-08
+381 ISOPRXN_X1       2.30e-09
+382 ISOPRXN_X2       1.90e-09
+383 ISOPRXN_X3       6.50e-13
+384 ISOPRXN_X4       4.10e-05
+385 ISOPRXN_X5       1.60e-17
+386 ISOPRXN_X6       9.20e-21
+387 ISOPRXN_X7       2.00e-14
+388 ISOPRXN_X8       9.20e-21
+389 ISOPRXN_X9       2.70e-09
+390 SV.ISO1_X1       3.70e-09
+391 SV.ISO1_X2       2.40e-09
+392 SV.ISO1_X3       1.00e-12
+393 SV.ISO1_X4       4.10e-05
+394 SV.ISO1_X5       2.40e-15
+395 SV.ISO1_X6       1.00e-20
+396 SV.ISO1_X7       3.90e-14
+397 SV.ISO1_X8       1.00e-20
+398 SV.ISO1_X9       4.40e-09
+399 SV.ISO2_X1       5.00e-09
+400 SV.ISO2_X2       2.60e-09
+401 SV.ISO2_X3       1.30e-12
+402 SV.ISO2_X4       3.10e-05
+403 SV.ISO2_X5       1.30e-12
+404 SV.ISO2_X6       1.40e-20
+405 SV.ISO2_X7       1.10e-13
+406 SV.ISO2_X8       1.40e-20
+407 SV.ISO2_X9       5.90e-09
+408 SESQ_X1          9.20e-21
+409 SESQ_X2          9.20e-21
+410 SESQ_X3          9.20e-21
+411 SESQ_X4          9.20e-21
+412 SESQ_X5          9.20e-21
+413 SESQ_X6          9.20e-21
+414 SESQ_X7          9.20e-21
+415 SESQ_X8          9.20e-21
+416 SESQ_X9          9.20e-21
+417 SESQRXN_X1       9.20e-21
+418 SESQRXN_X2       9.20e-21
+419 SESQRXN_X3       9.20e-21
+420 SESQRXN_X4       9.20e-21
+421 SESQRXN_X5       9.20e-21
+422 SESQRXN_X6       9.20e-21
+423 SESQRXN_X7       9.20e-21
+424 SESQRXN_X8       9.20e-21
+425 SESQRXN_X9       9.20e-21
+426 SV.SQT_X1        3.00e-20
+427 SV.SQT_X2        3.00e-20
+428 SV.SQT_X3        3.00e-20
+429 SV.SQT_X4        3.00e-20
+430 SV.SQT_X5        3.00e-20
+431 SV.SQT_X6        3.00e-20
+432 SV.SQT_X7        3.00e-20
+433 SV.SQT_X8        3.00e-20
+434 SV.SQT_X9        3.00e-20
+435 N(-III)_N1       3.40e-02
+436 N(-III)_N2       3.40e-02
+437 N(-III)_N3       3.40e-02
+438 N(-III)_N4       3.40e-02
+439 N(-III)_N5       3.40e-02
+440 N(-III)_N6       3.40e-02
+441 N(-III)_N7       3.40e-02
+442 N(-III)_N8       3.40e-02
+443 N(-III)_N9       3.40e-02
+444 N(V)_N1          2.50e-05
+445 N(V)_N2          2.50e-05
+446 N(V)_N3          2.50e-05
+447 N(V)_N4          2.50e-05
+448 N(V)_N5          2.50e-05
+449 N(V)_N6          2.50e-05
+450 N(V)_N7          2.50e-05
+451 N(V)_N8          2.50e-05
+452 N(V)_N9          2.50e-05
+453 S(VI)_S1         1.30e-01
+454 S(VI)_S2         1.30e-01
+455 S(VI)_S3         1.30e-01
+456 S(VI)_S4         1.30e-01
+457 S(VI)_S5         1.30e-01
+458 S(VI)_S6         1.30e-01
+459 S(VI)_S7         1.30e-01
+460 S(VI)_S8         1.30e-01
+461 S(VI)_S9         1.30e-01
+462 AALK_X1          1.70e-03
+463 AALK_X2          7.00e-04
+464 AALK_X3          1.80e-02
+465 AALK_X4          1.90e-04
+466 AALK_X5          4.80e-07
+467 AALK_X6          1.90e-04
+468 AALK_X7          6.30e-05
+469 AALK_X8          4.70e-05
+470 AALK_X9          1.70e-02
+471 AXYL1_X1         1.20e-03
+472 AXYL1_X2         5.60e-04
+473 AXYL1_X3         1.40e-03
+474 AXYL1_X4         1.00e-04
+475 AXYL1_X5         2.40e-07
+476 AXYL1_X6         8.00e-05
+477 AXYL1_X7         2.20e-05
+478 AXYL1_X8         2.40e-05
+479 AXYL1_X9         3.40e-03
+480 AXYL2_X1         1.20e-04
+481 AXYL2_X2         6.10e-05
+482 AXYL2_X3         1.50e-04
+483 AXYL2_X4         1.20e-05
+484 AXYL2_X5         5.40e-09
+485 AXYL2_X6         8.20e-06
+486 AXYL2_X7         2.00e-06
+487 AXYL2_X8         3.60e-06
+488 AXYL2_X9         3.70e-04
+489 ATOL1_X1         3.90e-04
+490 ATOL1_X2         2.00e-04
+491 ATOL1_X3         8.60e-04
+492 ATOL1_X4         5.70e-05
+493 ATOL1_X5         6.70e-07
+494 ATOL1_X6         5.70e-04
+495 ATOL1_X7         7.00e-06
+496 ATOL1_X8         1.20e-05
+497 ATOL1_X9         1.90e-03
+498 ATOL2_X1         1.20e-04
+499 ATOL2_X2         6.10e-05
+500 ATOL2_X3         2.70e-04
+501 ATOL2_X4         1.60e-05
+502 ATOL2_X5         2.10e-07
+503 ATOL2_X6         1.90e-04
+504 ATOL2_X7         2.00e-06
+505 ATOL2_X8         3.70e-06
+506 ATOL2_X9         5.90e-04
+507 ABNZ1_X1         1.20e-04
+508 ABNZ1_X2         7.90e-05
+509 ABNZ1_X3         2.10e-06
+510 ABNZ1_X4         1.60e-15
+511 ABNZ1_X5         4.80e-05
+512 ABNZ1_X6         2.40e-05
+513 ABNZ1_X7         1.40e-05
+514 ABNZ1_X8         2.10e-05
+515 ABNZ1_X9         1.90e-04
+516 ABNZ2_X1         2.00e-05
+517 ABNZ2_X2         1.20e-05
+518 ABNZ2_X3         3.40e-07
+519 ABNZ2_X4         1.60e-16
+520 ABNZ2_X5         4.00e-06
+521 ABNZ2_X6         4.30e-06
+522 ABNZ2_X7         2.10e-06
+523 ABNZ2_X8         3.20e-06
+524 ABNZ2_X9         3.00e-05
+525 ATRP1_X1         8.60e-06
+526 ATRP1_X2         3.40e-06
+527 ATRP1_X3         4.80e-04
+528 ATRP1_X4         5.80e-03
+529 ATRP1_X5         1.90e-09
+530 ATRP1_X6         6.60e-17
+531 ATRP1_X7         1.80e-09
+532 ATRP1_X8         1.70e-13
+533 ATRP1_X9         2.80e-05
+534 ATRP2_X1         5.00e-07
+535 ATRP2_X2         2.60e-07
+536 ATRP2_X3         2.70e-05
+537 ATRP2_X4         5.20e-04
+538 ATRP2_X5         1.50e-11
+539 ATRP2_X6         3.70e-18
+540 ATRP2_X7         5.30e-11
+541 ATRP2_X8         2.80e-15
+542 ATRP2_X9         1.50e-06
+543 AISO1_X1         1.40e-07
+544 AISO1_X2         8.90e-08
+545 AISO1_X3         3.90e-11
+546 AISO1_X4         1.70e-03
+547 AISO1_X5         9.40e-14
+548 AISO1_X6         3.90e-19
+549 AISO1_X7         1.60e-12
+550 AISO1_X8         3.90e-19
+551 AISO1_X9         1.60e-07
+552 AISO2_X1         1.10e-05
+553 AISO2_X2         5.90e-06
+554 AISO2_X3         3.00e-09
+555 AISO2_X4         7.30e-02
+556 AISO2_X5         2.90e-09
+557 AISO2_X6         3.30e-17
+558 AISO2_X7         2.60e-10
+559 AISO2_X8         3.30e-17
+560 AISO2_X9         1.30e-05
+561 ASQT_X1          1.50e-16
+562 ASQT_X2          1.50e-16
+563 ASQT_X3          1.50e-16
+564 ASQT_X4          1.50e-16
+565 ASQT_X5          1.50e-16
+566 ASQT_X6          1.50e-16
+567 ASQT_X7          1.50e-16
+568 ASQT_X8          1.50e-16
+569 ASQT_X9          1.50e-16
+570 AXYL3_X1         1.50e-03
+571 AXYL3_X2         7.80e-04
+572 AXYL3_X3         4.50e-03
+573 AXYL3_X4         2.60e-04
+574 AXYL3_X5         3.00e-05
+575 AXYL3_X6         1.10e-04
+576 AXYL3_X7         5.50e-05
+577 AXYL3_X8         1.90e-05
+578 AXYL3_X9         6.70e-03
+579 ATOL3_X1         1.60e-04
+580 ATOL3_X2         1.00e-04
+581 ATOL3_X3         3.30e-04
+582 ATOL3_X4         9.60e-05
+583 ATOL3_X5         2.60e-07
+584 ATOL3_X6         1.90e-04
+585 ATOL3_X7         6.30e-06
+586 ATOL3_X8         7.10e-06
+587 ATOL3_X9         8.60e-04
+588 ABNZ3_X1         3.30e-06
+589 ABNZ3_X2         3.00e-06
+590 ABNZ3_X3         5.00e-08
+591 ABNZ3_X4         1.50e-14
+592 ABNZ3_X5         8.10e-06
+593 ABNZ3_X6         4.90e-07
+594 ABNZ3_X7         6.70e-07
+595 ABNZ3_X8         8.00e-07
+596 ABNZ3_X9         6.90e-06
+597 ATRP3_X1         5.30e-04
+598 ATRP3_X2         1.60e-04
+599 ATRP3_X3         2.50e-02
+600 ATRP3_X4         6.30e-01
+601 ATRP3_X5         3.50e-03
+602 ATRP3_X6         7.80e-14
+603 ATRP3_X7         1.40e-06
+604 ATRP3_X8         3.50e-09
+605 ATRP3_X9         2.10e-03
+606 AOLGA_X1         3.40e-04
+607 AOLGA_X2         2.40e-04
+608 AOLGA_X3         1.90e-03
+609 AOLGA_X4         2.00e-04
+610 AOLGA_X5         8.30e-05
+611 AOLGA_X6         6.70e-05
+612 AOLGA_X7         2.90e-05
+613 AOLGA_X8         1.40e-05
+614 AOLGA_X9         4.20e-03
+615 AOLGB_X1         8.60e-06
+616 AOLGB_X2         3.60e-06
+617 AOLGB_X3         5.40e-04
+618 AOLGB_X4         1.90e-02
+619 AOLGB_X5         2.20e-04
+620 AOLGB_X6         1.70e-15
+621 AOLGB_X7         4.70e-08
+622 AOLGB_X8         1.10e-10
+623 AOLGB_X9         4.80e-05
+624 AISO3_X1         1.30e-20
+625 AISO3_X2         1.30e-20
+626 AISO3_X3         1.30e-20
+627 AISO3_X4         1.30e-20
+628 AISO3_X5         1.30e-20
+629 AISO3_X6         1.30e-20
+630 AISO3_X7         1.30e-20
+631 AISO3_X8         1.30e-20
+632 AISO3_X9         1.30e-20
+633 ARO2_X1          7.33e-04
+634 ARO2_X2          0.00e+00
+635 ARO2_X3          0.00e+00
+636 ARO2_X4          0.00e+00
+637 ARO2_X5          0.00e+00
+638 ARO2_X6          0.00e+00
+639 ARO2_X7          0.00e+00
+640 ARO2_X8          0.00e+00
+641 ARO2_X9          0.00e+00
+642 ARO1_X1          5.46e-04
+643 ARO1_X2          0.00e+00
+644 ARO1_X3          0.00e+00
+645 ARO1_X4          0.00e+00
+646 ARO1_X5          0.00e+00
+647 ARO1_X6          0.00e+00
+648 ARO1_X7          0.00e+00
+649 ARO1_X8          0.00e+00
+650 ARO1_X9          0.00e+00
+651 BENZENE_X1       2.57e-04
+652 BENZENE_X2       0.00e+00
+653 BENZENE_X3       0.00e+00
+654 BENZENE_X4       0.00e+00
+655 BENZENE_X5       0.00e+00
+656 BENZENE_X6       0.00e+00
+657 BENZENE_X7       0.00e+00
+658 BENZENE_X8       0.00e+00
+659 BENZENE_X9       0.00e+00
+660 SV.TRP3_X1       4.90e-08
+661 SV.TRP3_X2       1.60e-08
+662 SV.TRP3_X3       1.90e-06
+663 SV.TRP3_X4       7.40e-05
+664 SV.TRP3_X5       6.90e-11
+665 SV.TRP3_X6       1.60e-18
+666 SV.TRP3_X7       1.40e-11
+667 SV.TRP3_X8       2.20e-15
+668 SV.TRP3_X9       1.30e-07

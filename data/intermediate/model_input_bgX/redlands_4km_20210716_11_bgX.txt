@@ -1,0 +1,1150 @@
+ grid location:            73           45
+ reading from file: **/data/n197a/yusheng/COVID19_v2/SOUTHCA4KM_2020_07_waccm_noOgv_scaled_v5_230acm2_nokzz/grds_SOUTHCA4KM_2020_07_waccm_noOgv_scaled_v5_230acm2_nokzz.20jul17_11**
+ found target grid cell
+   1 O3               6.80e-02
+   2 NO               5.30e-04
+   3 NO2              1.90e-03
+   4 NO3              1.80e-07
+   5 N2O5             2.20e-07
+   6 HNO3             2.80e-03
+   7 HONO             3.30e-05
+   8 HNO4             1.10e-05
+   9 SO2              1.60e-04
+  10 SULF             2.60e-07
+  11 NPHE             2.70e-05
+  12 XN               2.60e-04
+  13 RNO3             3.80e-04
+  14 PAN              7.15e-04
+  15 PAN2             3.31e-04
+  16 PBZN             3.10e-06
+  17 MAPAN            9.70e-05
+  18 CLNO             1.00e-09
+  19 CLONO            2.50e-08
+  20 CLNO2            6.70e-08
+  21 CLONO2           3.70e-06
+  22 GLY              5.00e-05
+  23 MGLY             7.30e-05
+  24 MACO3            1.10e-07
+  25 MECO3            5.90e-07
+  26 MEO2             4.10e-06
+  27 HCOCO3           2.30e-09
+  28 RAOOH            2.10e-07
+  29 AFG1             1.74e-06
+  30 AFG2             1.92e-06
+  31 AFG3             8.90e-06
+  32 AFG4             1.20e-19
+  33 IPRD             7.60e-06
+  34 PROD2            0.00e+00
+  35 ACETYLEN         3.36e-04
+  36 ACET             4.00e-02
+  37 MEK              3.73e-05
+  38 BACL             5.40e-06
+  39 CRES             8.62e-05
+  40 CATL             8.00e-07
+  41 PHEN             0.00e+00
+  42 XYNL             1.10e-05
+  43 ETHENE           4.14e-04
+  44 OLE1             0.00e+00
+  45 OLE2             0.00e+00
+  46 MACR             1.10e-04
+  47 BZCO3            2.20e-09
+  48 BALD             7.06e-05
+  49 MVK              0.00e+00
+  50 RO2C             1.00e-05
+  51 RCO3             1.90e-07
+  52 HO2              1.90e-05
+  53 HO2H             2.07e-03
+  54 HCHO             0.00e+00
+  55 CCHO             0.00e+00
+  56 RCHO             2.75e-05
+  57 MEOH             0.00e+00
+  58 ETOH             0.00e+00
+  59 HCOOH            9.80e-05
+  60 CCOOH            1.70e-04
+  61 RCOOH            7.00e-05
+  62 COOH             4.60e-04
+  63 R6OOH            1.90e-05
+  64 ROOH             1.80e-05
+  65 CLCCHO           6.60e-07
+  66 CH4              2.30e+00
+  67 ALK1             2.24e-03
+  68 ALK2             1.96e-04
+  69 ALK3             0.00e+00
+  70 ALK4             2.77e-03
+  71 ALK5             2.96e-03
+  72 ALK5RXN          7.70e-09
+  73 ARO2             2.54e-04
+  74 ARO2RO2          1.20e-10
+  75 XYLNRXN          8.20e-11
+  76 XYLHRXN          8.90e-15
+  77 ARO1             3.62e-04
+  78 ARO1RO2          1.60e-09
+  79 TOLNRXN          9.20e-10
+  80 TOLHRXN          1.20e-13
+  81 BENZENE          0.00e+00
+  82 BENZRO2          6.30e-09
+  83 BNZNRXN          3.60e-09
+  84 BNZHRXN          4.60e-13
+  85 TERP             0.00e+00
+  86 TRPRXN           2.40e-20
+  87 ISOPRENE         0.00e+00
+  88 ISOPRXN          1.50e-16
+  89 SESQ             9.00e-21
+  90 SESQRXN          9.00e-21
+  91 CO               2.27e-01
+  92 RO2XC            9.50e-07
+  93 xAFG4            9.00e-21
+  94 CL2              6.40e-11
+  95 CL               1.30e-10
+  96 HCL              5.50e-04
+  97 CLO              1.30e-08
+  98 HOCL             5.50e-07
+  99 CLACET           7.60e-07
+ 100 NH3              4.30e-03
+ 101 GDENS            1.10e+00
+ 102 MMOLES           1.20e+06
+ 103 XICBC            3.40e+01
+ 104 YICBC            1.10e+01
+ 105 ZICBC            1.60e-10
+ 106 SV.ALK           4.90e-08
+ 107 SV.XYL1          9.90e-10
+ 108 SV.XYL2          6.90e-10
+ 109 SV.XYL3          1.70e-08
+ 110 SV.TOL1          1.70e-08
+ 111 SV.TOL2          1.50e-08
+ 112 SV.TOL3          2.60e-09
+ 113 SV.BNZ1          5.00e-08
+ 114 SV.BNZ2          5.40e-07
+ 115 SV.BNZ3          1.50e-09
+ 116 SV.TRP1          1.10e-11
+ 117 SV.TRP2          1.10e-12
+ 118 SV.ISO1          8.90e-14
+ 119 SV.ISO2          4.80e-12
+ 120 SV.SQT           2.40e-20
+ 121 AALK             1.40e-03
+ 122 AXYL1            7.80e-06
+ 123 AXYL2            3.40e-07
+ 124 ATOL1            6.40e-05
+ 125 ATOL2            9.10e-06
+ 126 ABNZ1            6.10e-04
+ 127 ABNZ2            5.00e-05
+ 128 ATRP1            1.40e-08
+ 129 ATRP2            1.20e-10
+ 130 AISO1            3.40e-12
+ 131 AISO2            1.60e-08
+ 132 ASQT             9.90e-17
+ 133 AXYL3            2.90e-03
+ 134 ATOL3            5.00e-04
+ 135 ABNZ3            1.20e-04
+ 136 AOLGA            6.40e-03
+ 137 AOLGB            4.40e-05
+ 138 AISO3            1.40e-20
+ 139 CHCL3            1.40e-20
+ 140 SV.ALK_X1        1.30e-07
+ 141 SV.ALK_X2        5.70e-08
+ 142 SV.ALK_X3        1.30e-06
+ 143 SV.ALK_X4        1.10e-08
+ 144 SV.ALK_X5        3.80e-11
+ 145 SV.ALK_X6        1.30e-08
+ 146 SV.ALK_X7        7.60e-09
+ 147 SV.ALK_X8        4.50e-09
+ 148 SV.ALK_X9        1.20e-06
+ 149 XYLNRXN_X1       8.90e-08
+ 150 XYLNRXN_X2       6.60e-08
+ 151 XYLNRXN_X3       7.90e-08
+ 152 XYLNRXN_X4       1.10e-08
+ 153 XYLNRXN_X5       4.50e-14
+ 154 XYLNRXN_X6       4.40e-09
+ 155 XYLNRXN_X7       1.20e-09
+ 156 XYLNRXN_X8       4.00e-09
+ 157 XYLNRXN_X9       2.70e-07
+ 158 SV.XYL1_X1       2.90e-07
+ 159 SV.XYL1_X2       1.50e-07
+ 160 SV.XYL1_X3       3.30e-07
+ 161 SV.XYL1_X4       1.80e-08
+ 162 SV.XYL1_X5       6.00e-13
+ 163 SV.XYL1_X6       1.80e-08
+ 164 SV.XYL1_X7       7.70e-09
+ 165 SV.XYL1_X8       8.40e-09
+ 166 SV.XYL1_X9       8.00e-07
+ 167 SV.XYL2_X1       2.90e-07
+ 168 SV.XYL2_X2       1.60e-07
+ 169 SV.XYL2_X3       3.00e-07
+ 170 SV.XYL2_X4       2.20e-08
+ 171 SV.XYL2_X5       2.60e-13
+ 172 SV.XYL2_X6       1.90e-08
+ 173 SV.XYL2_X7       6.60e-09
+ 174 SV.XYL2_X8       1.10e-08
+ 175 SV.XYL2_X9       8.70e-07
+ 176 XYLHRXN_X1       1.10e-11
+ 177 XYLHRXN_X2       7.60e-12
+ 178 XYLHRXN_X3       9.20e-12
+ 179 XYLHRXN_X4       1.50e-12
+ 180 XYLHRXN_X5       4.90e-18
+ 181 XYLHRXN_X6       5.20e-13
+ 182 XYLHRXN_X7       1.40e-13
+ 183 XYLHRXN_X8       4.60e-13
+ 184 XYLHRXN_X9       3.20e-11
+ 185 SV.XYL3_X1       2.10e-07
+ 186 SV.XYL3_X2       1.10e-07
+ 187 SV.XYL3_X3       5.10e-07
+ 188 SV.XYL3_X4       1.40e-08
+ 189 SV.XYL3_X5       9.80e-12
+ 190 SV.XYL3_X6       1.30e-08
+ 191 SV.XYL3_X7       7.00e-09
+ 192 SV.XYL3_X8       4.80e-09
+ 193 SV.XYL3_X9       7.60e-07
+ 194 TOLNRXN_X1       6.60e-08
+ 195 TOLNRXN_X2       3.80e-08
+ 196 TOLNRXN_X3       1.30e-07
+ 197 TOLNRXN_X4       7.90e-09
+ 198 TOLNRXN_X5       1.40e-10
+ 199 TOLNRXN_X6       9.30e-08
+ 200 TOLNRXN_X7       1.20e-09
+ 201 TOLNRXN_X8       2.80e-09
+ 202 TOLNRXN_X9       3.20e-07
+ 203 SV.TOL1_X1       2.40e-07
+ 204 SV.TOL1_X2       1.30e-07
+ 205 SV.TOL1_X3       5.40e-07
+ 206 SV.TOL1_X4       2.50e-08
+ 207 SV.TOL1_X5       4.60e-10
+ 208 SV.TOL1_X6       3.20e-07
+ 209 SV.TOL1_X7       6.10e-09
+ 210 SV.TOL1_X8       8.50e-09
+ 211 SV.TOL1_X9       1.10e-06
+ 212 SV.TOL2_X1       4.00e-07
+ 213 SV.TOL2_X2       2.10e-07
+ 214 SV.TOL2_X3       9.10e-07
+ 215 SV.TOL2_X4       3.60e-08
+ 216 SV.TOL2_X5       7.80e-10
+ 217 SV.TOL2_X6       5.70e-07
+ 218 SV.TOL2_X7       9.70e-09
+ 219 SV.TOL2_X8       1.50e-08
+ 220 SV.TOL2_X9       1.80e-06
+ 221 TOLHRXN_X1       8.30e-12
+ 222 TOLHRXN_X2       4.90e-12
+ 223 TOLHRXN_X3       1.70e-11
+ 224 TOLHRXN_X4       1.00e-12
+ 225 TOLHRXN_X5       1.80e-14
+ 226 TOLHRXN_X6       1.10e-11
+ 227 TOLHRXN_X7       1.60e-13
+ 228 TOLHRXN_X8       3.30e-13
+ 229 TOLHRXN_X9       3.90e-11
+ 230 SV.TOL3_X1       2.90e-08
+ 231 SV.TOL3_X2       1.70e-08
+ 232 SV.TOL3_X3       6.60e-08
+ 233 SV.TOL3_X4       3.30e-09
+ 234 SV.TOL3_X5       5.60e-11
+ 235 SV.TOL3_X6       3.70e-08
+ 236 SV.TOL3_X7       7.80e-10
+ 237 SV.TOL3_X8       9.90e-10
+ 238 SV.TOL3_X9       1.30e-07
+ 239 BNZNRXN_X1       8.30e-09
+ 240 BNZNRXN_X2       5.70e-09
+ 241 BNZNRXN_X3       1.40e-10
+ 242 BNZNRXN_X4       9.00e-21
+ 243 BNZNRXN_X5       2.30e-11
+ 244 BNZNRXN_X6       1.80e-09
+ 245 BNZNRXN_X7       1.10e-09
+ 246 BNZNRXN_X8       1.90e-09
+ 247 BNZNRXN_X9       1.20e-08
+ 248 SV.BNZ1_X1       2.60e-08
+ 249 SV.BNZ1_X2       1.90e-08
+ 250 SV.BNZ1_X3       4.40e-10
+ 251 SV.BNZ1_X4       2.20e-19
+ 252 SV.BNZ1_X5       4.50e-10
+ 253 SV.BNZ1_X6       4.50e-09
+ 254 SV.BNZ1_X7       4.50e-09
+ 255 SV.BNZ1_X8       4.80e-09
+ 256 SV.BNZ1_X9       4.00e-08
+ 257 SV.BNZ2_X1       4.70e-07
+ 258 SV.BNZ2_X2       3.20e-07
+ 259 SV.BNZ2_X3       8.40e-09
+ 260 SV.BNZ2_X4       2.30e-18
+ 261 SV.BNZ2_X5       4.30e-09
+ 262 SV.BNZ2_X6       9.80e-08
+ 263 SV.BNZ2_X7       7.80e-08
+ 264 SV.BNZ2_X8       9.40e-08
+ 265 SV.BNZ2_X9       7.00e-07
+ 266 BNZHRXN_X1       1.10e-12
+ 267 BNZHRXN_X2       7.50e-13
+ 268 BNZHRXN_X3       1.80e-14
+ 269 BNZHRXN_X4       9.00e-21
+ 270 BNZHRXN_X5       3.00e-15
+ 271 BNZHRXN_X6       2.10e-13
+ 272 BNZHRXN_X7       1.40e-13
+ 273 BNZHRXN_X8       2.30e-13
+ 274 BNZHRXN_X9       1.50e-12
+ 275 SV.BNZ3_X1       6.00e-10
+ 276 SV.BNZ3_X2       4.60e-10
+ 277 SV.BNZ3_X3       1.00e-11
+ 278 SV.BNZ3_X4       3.50e-20
+ 279 SV.BNZ3_X5       1.30e-11
+ 280 SV.BNZ3_X6       9.60e-11
+ 281 SV.BNZ3_X7       1.10e-10
+ 282 SV.BNZ3_X8       1.10e-10
+ 283 SV.BNZ3_X9       9.60e-10
+ 284 TRPRXN_X1        9.50e-10
+ 285 TRPRXN_X2        7.00e-10
+ 286 TRPRXN_X3        5.80e-08
+ 287 TRPRXN_X4        9.50e-07
+ 288 TRPRXN_X5        2.60e-15
+ 289 TRPRXN_X6        9.00e-21
+ 290 TRPRXN_X7        3.70e-14
+ 291 TRPRXN_X8        9.00e-21
+ 292 TRPRXN_X9        2.40e-09
+ 293 SV.TRP1_X1       4.60e-09
+ 294 SV.TRP1_X2       2.30e-09
+ 295 SV.TRP1_X3       2.40e-07
+ 296 SV.TRP1_X4       3.00e-06
+ 297 SV.TRP1_X5       4.10e-13
+ 298 SV.TRP1_X6       3.60e-20
+ 299 SV.TRP1_X7       3.30e-13
+ 300 SV.TRP1_X8       1.10e-16
+ 301 SV.TRP1_X9       1.30e-08
+ 302 SV.TRP2_X1       3.50e-09
+ 303 SV.TRP2_X2       2.00e-09
+ 304 SV.TRP2_X3       1.80e-07
+ 305 SV.TRP2_X4       3.00e-06
+ 306 SV.TRP2_X5       9.00e-14
+ 307 SV.TRP2_X6       2.40e-20
+ 308 SV.TRP2_X7       1.30e-13
+ 309 SV.TRP2_X8       1.30e-17
+ 310 SV.TRP2_X9       9.20e-09
+ 311 ISOPRXN_X1       2.40e-09
+ 312 ISOPRXN_X2       2.20e-09
+ 313 ISOPRXN_X3       8.20e-13
+ 314 ISOPRXN_X4       3.20e-05
+ 315 ISOPRXN_X5       1.30e-15
+ 316 ISOPRXN_X6       9.00e-21
+ 317 ISOPRXN_X7       1.90e-14
+ 318 ISOPRXN_X8       9.00e-21
+ 319 ISOPRXN_X9       2.80e-09
+ 320 SV.ISO1_X1       2.70e-09
+ 321 SV.ISO1_X2       2.00e-09
+ 322 SV.ISO1_X3       8.30e-13
+ 323 SV.ISO1_X4       2.70e-05
+ 324 SV.ISO1_X5       1.10e-14
+ 325 SV.ISO1_X6       9.40e-21
+ 326 SV.ISO1_X7       1.90e-14
+ 327 SV.ISO1_X8       9.40e-21
+ 328 SV.ISO1_X9       3.10e-09
+ 329 SV.ISO2_X1       3.30e-09
+ 330 SV.ISO2_X2       1.90e-09
+ 331 SV.ISO2_X3       9.40e-13
+ 332 SV.ISO2_X4       2.20e-05
+ 333 SV.ISO2_X5       6.90e-14
+ 334 SV.ISO2_X6       1.20e-20
+ 335 SV.ISO2_X7       4.40e-14
+ 336 SV.ISO2_X8       1.20e-20
+ 337 SV.ISO2_X9       3.80e-09
+ 338 SESQRXN_X1       9.00e-21
+ 339 SESQRXN_X2       9.00e-21
+ 340 SESQRXN_X3       9.00e-21
+ 341 SESQRXN_X4       9.00e-21
+ 342 SESQRXN_X5       9.00e-21
+ 343 SESQRXN_X6       9.00e-21
+ 344 SESQRXN_X7       9.00e-21
+ 345 SESQRXN_X8       9.00e-21
+ 346 SESQRXN_X9       9.00e-21
+ 347 SV.SQT_X1        2.40e-20
+ 348 SV.SQT_X2        2.40e-20
+ 349 SV.SQT_X3        2.40e-20
+ 350 SV.SQT_X4        2.40e-20
+ 351 SV.SQT_X5        2.40e-20
+ 352 SV.SQT_X6        2.40e-20
+ 353 SV.SQT_X7        2.40e-20
+ 354 SV.SQT_X8        2.40e-20
+ 355 SV.SQT_X9        2.40e-20
+ 356 AALK_X1          3.90e-03
+ 357 AALK_X2          1.80e-03
+ 358 AALK_X3          3.90e-02
+ 359 AALK_X4          3.00e-04
+ 360 AALK_X5          1.10e-06
+ 361 AALK_X6          4.20e-04
+ 362 AALK_X7          2.30e-04
+ 363 AALK_X8          1.40e-04
+ 364 AALK_X9          3.60e-02
+ 365 AXYL1_X1         2.30e-03
+ 366 AXYL1_X2         1.20e-03
+ 367 AXYL1_X3         2.50e-03
+ 368 AXYL1_X4         1.40e-04
+ 369 AXYL1_X5         4.60e-09
+ 370 AXYL1_X6         1.50e-04
+ 371 AXYL1_X7         6.00e-05
+ 372 AXYL1_X8         6.70e-05
+ 373 AXYL1_X9         6.20e-03
+ 374 AXYL2_X1         1.40e-04
+ 375 AXYL2_X2         7.80e-05
+ 376 AXYL2_X3         1.50e-04
+ 377 AXYL2_X4         1.00e-05
+ 378 AXYL2_X5         1.30e-10
+ 379 AXYL2_X6         1.00e-05
+ 380 AXYL2_X7         3.20e-06
+ 381 AXYL2_X8         5.70e-06
+ 382 AXYL2_X9         4.30e-04
+ 383 ATOL1_X1         9.30e-04
+ 384 ATOL1_X2         5.10e-04
+ 385 ATOL1_X3         2.10e-03
+ 386 ATOL1_X4         1.00e-04
+ 387 ATOL1_X5         1.80e-06
+ 388 ATOL1_X6         1.40e-03
+ 389 ATOL1_X7         2.40e-05
+ 390 ATOL1_X8         3.40e-05
+ 391 ATOL1_X9         4.20e-03
+ 392 ATOL2_X1         2.50e-04
+ 393 ATOL2_X2         1.30e-04
+ 394 ATOL2_X3         5.60e-04
+ 395 ATOL2_X4         2.20e-05
+ 396 ATOL2_X5         4.60e-07
+ 397 ATOL2_X6         3.80e-04
+ 398 ATOL2_X7         5.90e-06
+ 399 ATOL2_X8         9.00e-06
+ 400 ATOL2_X9         1.10e-03
+ 401 ABNZ1_X1         3.10e-04
+ 402 ABNZ1_X2         2.30e-04
+ 403 ABNZ1_X3         5.40e-06
+ 404 ABNZ1_X4         2.60e-15
+ 405 ABNZ1_X5         5.50e-06
+ 406 ABNZ1_X6         5.90e-05
+ 407 ABNZ1_X7         5.50e-05
+ 408 ABNZ1_X8         5.90e-05
+ 409 ABNZ1_X9         4.80e-04
+ 410 ABNZ2_X1         4.50e-05
+ 411 ABNZ2_X2         3.10e-05
+ 412 ABNZ2_X3         8.00e-07
+ 413 ABNZ2_X4         2.20e-16
+ 414 ABNZ2_X5         3.90e-07
+ 415 ABNZ2_X6         1.00e-05
+ 416 ABNZ2_X7         7.30e-06
+ 417 ABNZ2_X8         8.70e-06
+ 418 ABNZ2_X9         6.70e-05
+ 419 ATRP1_X1         6.30e-06
+ 420 ATRP1_X2         3.20e-06
+ 421 ATRP1_X3         3.30e-04
+ 422 ATRP1_X4         4.00e-03
+ 423 ATRP1_X5         5.90e-10
+ 424 ATRP1_X6         4.80e-17
+ 425 ATRP1_X7         4.70e-10
+ 426 ATRP1_X8         1.60e-13
+ 427 ATRP1_X9         1.80e-05
+ 428 ATRP2_X1         4.40e-07
+ 429 ATRP2_X2         2.40e-07
+ 430 ATRP2_X3         2.30e-05
+ 431 ATRP2_X4         3.40e-04
+ 432 ATRP2_X5         1.30e-11
+ 433 ATRP2_X6         2.80e-18
+ 434 ATRP2_X7         1.60e-11
+ 435 ATRP2_X8         1.60e-15
+ 436 ATRP2_X9         1.20e-06
+ 437 AISO1_X1         1.10e-07
+ 438 AISO1_X2         8.40e-08
+ 439 AISO1_X3         3.30e-11
+ 440 AISO1_X4         1.00e-03
+ 441 AISO1_X5         5.20e-13
+ 442 AISO1_X6         3.70e-19
+ 443 AISO1_X7         8.30e-13
+ 444 AISO1_X8         3.70e-19
+ 445 AISO1_X9         1.30e-07
+ 446 AISO2_X1         1.20e-05
+ 447 AISO2_X2         7.10e-06
+ 448 AISO2_X3         3.30e-09
+ 449 AISO2_X4         6.80e-02
+ 450 AISO2_X5         2.40e-10
+ 451 AISO2_X6         4.10e-17
+ 452 AISO2_X7         1.60e-10
+ 453 AISO2_X8         4.10e-17
+ 454 AISO2_X9         1.40e-05
+ 455 ASQT_X1          9.90e-17
+ 456 ASQT_X2          9.90e-17
+ 457 ASQT_X3          9.90e-17
+ 458 ASQT_X4          9.90e-17
+ 459 ASQT_X5          9.90e-17
+ 460 ASQT_X6          9.90e-17
+ 461 ASQT_X7          9.90e-17
+ 462 ASQT_X8          9.90e-17
+ 463 ASQT_X9          9.90e-17
+ 464 AXYL3_X1         4.70e-03
+ 465 AXYL3_X2         2.70e-03
+ 466 AXYL3_X3         1.10e-02
+ 467 AXYL3_X4         6.60e-04
+ 468 AXYL3_X5         5.50e-06
+ 469 AXYL3_X6         3.00e-04
+ 470 AXYL3_X7         2.20e-04
+ 471 AXYL3_X8         8.20e-05
+ 472 AXYL3_X9         1.80e-02
+ 473 ATOL3_X1         6.20e-04
+ 474 ATOL3_X2         4.30e-04
+ 475 ATOL3_X3         1.30e-03
+ 476 ATOL3_X4         2.80e-04
+ 477 ATOL3_X5         1.20e-06
+ 478 ATOL3_X6         6.90e-04
+ 479 ATOL3_X7         2.80e-05
+ 480 ATOL3_X8         2.40e-05
+ 481 ATOL3_X9         3.30e-03
+ 482 ABNZ3_X1         1.50e-05
+ 483 ABNZ3_X2         1.40e-05
+ 484 ABNZ3_X3         2.20e-07
+ 485 ABNZ3_X4         1.10e-14
+ 486 ABNZ3_X5         1.40e-06
+ 487 ABNZ3_X6         1.80e-06
+ 488 ABNZ3_X7         3.60e-06
+ 489 ABNZ3_X8         2.90e-06
+ 490 ABNZ3_X9         2.70e-05
+ 491 AOLGA_X1         9.30e-04
+ 492 AOLGA_X2         6.70e-04
+ 493 AOLGA_X3         5.50e-03
+ 494 AOLGA_X4         4.00e-04
+ 495 AOLGA_X5         1.00e-05
+ 496 AOLGA_X6         1.50e-04
+ 497 AOLGA_X7         9.30e-05
+ 498 AOLGA_X8         3.70e-05
+ 499 AOLGA_X9         1.20e-02
+ 500 AOLGB_X1         1.00e-05
+ 501 AOLGB_X2         4.80e-06
+ 502 AOLGB_X3         5.00e-04
+ 503 AOLGB_X4         2.20e-02
+ 504 AOLGB_X5         1.80e-06
+ 505 AOLGB_X6         1.50e-15
+ 506 AOLGB_X7         3.00e-08
+ 507 AOLGB_X8         2.60e-11
+ 508 AOLGB_X9         5.20e-05
+ 509 AISO3_X1         1.40e-20
+ 510 AISO3_X2         1.40e-20
+ 511 AISO3_X3         1.40e-20
+ 512 AISO3_X4         1.40e-20
+ 513 AISO3_X5         1.40e-20
+ 514 AISO3_X6         1.40e-20
+ 515 AISO3_X7         1.40e-20
+ 516 AISO3_X8         1.40e-20
+ 517 AISO3_X9         1.40e-20
+ 518 O3_X1            0.00e+00
+ 519 O3_X2            0.00e+00
+ 520 O3_X3            0.00e+00
+ 521 O3_X4            0.00e+00
+ 522 O3_X5            0.00e+00
+ 523 O3_X6            0.00e+00
+ 524 O3_X7            0.00e+00
+ 525 O3_X8            0.00e+00
+ 526 O3_X9            0.00e+00
+ 527 NO2_X1           0.00e+00
+ 528 NO2_X2           0.00e+00
+ 529 NO2_X3           0.00e+00
+ 530 NO2_X4           0.00e+00
+ 531 NO2_X5           0.00e+00
+ 532 NO2_X6           0.00e+00
+ 533 NO2_X7           0.00e+00
+ 534 NO2_X8           0.00e+00
+ 535 NO2_X9           0.00e+00
+ 536 HO2_X1           0.00e+00
+ 537 HO2_X2           0.00e+00
+ 538 HO2_X3           0.00e+00
+ 539 HO2_X4           0.00e+00
+ 540 HO2_X5           0.00e+00
+ 541 HO2_X6           0.00e+00
+ 542 HO2_X7           0.00e+00
+ 543 HO2_X8           0.00e+00
+ 544 HO2_X9           0.00e+00
+ 545 NO3_X1           0.00e+00
+ 546 NO3_X2           0.00e+00
+ 547 NO3_X3           0.00e+00
+ 548 NO3_X4           0.00e+00
+ 549 NO3_X5           0.00e+00
+ 550 NO3_X6           0.00e+00
+ 551 NO3_X7           0.00e+00
+ 552 NO3_X8           0.00e+00
+ 553 NO3_X9           0.00e+00
+ 554 AFG3_X1          0.00e+00
+ 555 AFG3_X2          0.00e+00
+ 556 AFG3_X3          0.00e+00
+ 557 AFG3_X4          0.00e+00
+ 558 AFG3_X5          0.00e+00
+ 559 AFG3_X6          0.00e+00
+ 560 AFG3_X7          0.00e+00
+ 561 AFG3_X8          0.00e+00
+ 562 AFG3_X9          0.00e+00
+ 563 MECO3_X1         0.00e+00
+ 564 MECO3_X2         0.00e+00
+ 565 MECO3_X3         0.00e+00
+ 566 MECO3_X4         0.00e+00
+ 567 MECO3_X5         0.00e+00
+ 568 MECO3_X6         0.00e+00
+ 569 MECO3_X7         0.00e+00
+ 570 MECO3_X8         0.00e+00
+ 571 MECO3_X9         0.00e+00
+ 572 RO2C_X1          0.00e+00
+ 573 RO2C_X2          0.00e+00
+ 574 RO2C_X3          0.00e+00
+ 575 RO2C_X4          0.00e+00
+ 576 RO2C_X5          0.00e+00
+ 577 RO2C_X6          0.00e+00
+ 578 RO2C_X7          0.00e+00
+ 579 RO2C_X8          0.00e+00
+ 580 RO2C_X9          0.00e+00
+ 581 GLY_X1           0.00e+00
+ 582 GLY_X2           0.00e+00
+ 583 GLY_X3           0.00e+00
+ 584 GLY_X4           0.00e+00
+ 585 GLY_X5           0.00e+00
+ 586 GLY_X6           0.00e+00
+ 587 GLY_X7           0.00e+00
+ 588 GLY_X8           0.00e+00
+ 589 GLY_X9           0.00e+00
+ 590 MGLY_X1          0.00e+00
+ 591 MGLY_X2          0.00e+00
+ 592 MGLY_X3          0.00e+00
+ 593 MGLY_X4          0.00e+00
+ 594 MGLY_X5          0.00e+00
+ 595 MGLY_X6          0.00e+00
+ 596 MGLY_X7          0.00e+00
+ 597 MGLY_X8          0.00e+00
+ 598 MGLY_X9          0.00e+00
+ 599 AFG1_X1          0.00e+00
+ 600 AFG1_X2          0.00e+00
+ 601 AFG1_X3          0.00e+00
+ 602 AFG1_X4          0.00e+00
+ 603 AFG1_X5          0.00e+00
+ 604 AFG1_X6          0.00e+00
+ 605 AFG1_X7          0.00e+00
+ 606 AFG1_X8          0.00e+00
+ 607 AFG1_X9          0.00e+00
+ 608 AFG2_X1          0.00e+00
+ 609 AFG2_X2          0.00e+00
+ 610 AFG2_X3          0.00e+00
+ 611 AFG2_X4          0.00e+00
+ 612 AFG2_X5          0.00e+00
+ 613 AFG2_X6          0.00e+00
+ 614 AFG2_X7          0.00e+00
+ 615 AFG2_X8          0.00e+00
+ 616 AFG2_X9          0.00e+00
+ 617 MACR_X1          0.00e+00
+ 618 MACR_X2          0.00e+00
+ 619 MACR_X3          0.00e+00
+ 620 MACR_X4          0.00e+00
+ 621 MACR_X5          0.00e+00
+ 622 MACR_X6          0.00e+00
+ 623 MACR_X7          0.00e+00
+ 624 MACR_X8          0.00e+00
+ 625 MACR_X9          0.00e+00
+ 626 MVK_X1           1.83e-05
+ 627 MVK_X2           1.82e-04
+ 628 MVK_X3           1.59e-05
+ 629 MVK_X4           2.08e-05
+ 630 MVK_X5           5.03e-07
+ 631 MVK_X6           6.97e-06
+ 632 MVK_X7           1.16e-05
+ 633 MVK_X8           5.00e-06
+ 634 MVK_X9           4.94e-05
+ 635 IPRD_X1          0.00e+00
+ 636 IPRD_X2          0.00e+00
+ 637 IPRD_X3          0.00e+00
+ 638 IPRD_X4          0.00e+00
+ 639 IPRD_X5          0.00e+00
+ 640 IPRD_X6          0.00e+00
+ 641 IPRD_X7          0.00e+00
+ 642 IPRD_X8          0.00e+00
+ 643 IPRD_X9          0.00e+00
+ 644 HCHO_X1          9.68e-05
+ 645 HCHO_X2          1.22e-03
+ 646 HCHO_X3          2.92e-04
+ 647 HCHO_X4          1.69e-04
+ 648 HCHO_X5          1.11e-04
+ 649 HCHO_X6          3.17e-04
+ 650 HCHO_X7          4.79e-04
+ 651 HCHO_X8          7.33e-04
+ 652 HCHO_X9          5.80e-04
+ 653 HCOOH_X1         0.00e+00
+ 654 HCOOH_X2         0.00e+00
+ 655 HCOOH_X3         0.00e+00
+ 656 HCOOH_X4         0.00e+00
+ 657 HCOOH_X5         0.00e+00
+ 658 HCOOH_X6         0.00e+00
+ 659 HCOOH_X7         0.00e+00
+ 660 HCOOH_X8         0.00e+00
+ 661 HCOOH_X9         0.00e+00
+ 662 MEK_X1           0.00e+00
+ 663 MEK_X2           0.00e+00
+ 664 MEK_X3           0.00e+00
+ 665 MEK_X4           0.00e+00
+ 666 MEK_X5           0.00e+00
+ 667 MEK_X6           0.00e+00
+ 668 MEK_X7           0.00e+00
+ 669 MEK_X8           0.00e+00
+ 670 MEK_X9           0.00e+00
+ 671 RCOOH_X1         0.00e+00
+ 672 RCOOH_X2         0.00e+00
+ 673 RCOOH_X3         0.00e+00
+ 674 RCOOH_X4         0.00e+00
+ 675 RCOOH_X5         0.00e+00
+ 676 RCOOH_X6         0.00e+00
+ 677 RCOOH_X7         0.00e+00
+ 678 RCOOH_X8         0.00e+00
+ 679 RCOOH_X9         0.00e+00
+ 680 ETHENE_X1        0.00e+00
+ 681 ETHENE_X2        0.00e+00
+ 682 ETHENE_X3        0.00e+00
+ 683 ETHENE_X4        0.00e+00
+ 684 ETHENE_X5        0.00e+00
+ 685 ETHENE_X6        0.00e+00
+ 686 ETHENE_X7        0.00e+00
+ 687 ETHENE_X8        0.00e+00
+ 688 ETHENE_X9        0.00e+00
+ 689 ISOPRENE_X1      4.00e-05
+ 690 ISOPRENE_X2      3.94e-04
+ 691 ISOPRENE_X3      4.57e-05
+ 692 ISOPRENE_X4      3.66e-05
+ 693 ISOPRENE_X5      1.25e-05
+ 694 ISOPRENE_X6      1.52e-05
+ 695 ISOPRENE_X7      1.92e-05
+ 696 ISOPRENE_X8      0.00e+00
+ 697 ISOPRENE_X9      8.66e-05
+ 698 PROD2_X1         1.02e-07
+ 699 PROD2_X2         1.85e-07
+ 700 PROD2_X3         6.63e-07
+ 701 PROD2_X4         0.00e+00
+ 702 PROD2_X5         2.66e-07
+ 703 PROD2_X6         1.47e-07
+ 704 PROD2_X7         0.00e+00
+ 705 PROD2_X8         2.62e-07
+ 706 PROD2_X9         2.74e-07
+ 707 ACETYLEN_X1      0.00e+00
+ 708 ACETYLEN_X2      0.00e+00
+ 709 ACETYLEN_X3      0.00e+00
+ 710 ACETYLEN_X4      0.00e+00
+ 711 ACETYLEN_X5      0.00e+00
+ 712 ACETYLEN_X6      0.00e+00
+ 713 ACETYLEN_X7      0.00e+00
+ 714 ACETYLEN_X8      0.00e+00
+ 715 ACETYLEN_X9      0.00e+00
+ 716 OLE1_X1          1.75e-05
+ 717 OLE1_X2          1.31e-05
+ 718 OLE1_X3          5.22e-05
+ 719 OLE1_X4          2.38e-04
+ 720 OLE1_X5          1.24e-04
+ 721 OLE1_X6          1.39e-04
+ 722 OLE1_X7          5.62e-05
+ 723 OLE1_X8          8.46e-05
+ 724 OLE1_X9          1.52e-05
+ 725 MEO2_X1          0.00e+00
+ 726 MEO2_X2          0.00e+00
+ 727 MEO2_X3          0.00e+00
+ 728 MEO2_X4          0.00e+00
+ 729 MEO2_X5          0.00e+00
+ 730 MEO2_X6          0.00e+00
+ 731 MEO2_X7          0.00e+00
+ 732 MEO2_X8          0.00e+00
+ 733 MEO2_X9          0.00e+00
+ 734 CCHO_X1          7.45e-05
+ 735 CCHO_X2          4.74e-04
+ 736 CCHO_X3          3.89e-04
+ 737 CCHO_X4          5.21e-05
+ 738 CCHO_X5          0.00e+00
+ 739 CCHO_X6          2.00e-04
+ 740 CCHO_X7          1.46e-04
+ 741 CCHO_X8          4.43e-04
+ 742 CCHO_X9          2.62e-04
+ 743 RCHO_X1          0.00e+00
+ 744 RCHO_X2          2.84e-05
+ 745 RCHO_X3          2.86e-05
+ 746 RCHO_X4          0.00e+00
+ 747 RCHO_X5          9.38e-05
+ 748 RCHO_X6          3.40e-05
+ 749 RCHO_X7          2.60e-06
+ 750 RCHO_X8          2.03e-06
+ 751 RCHO_X9          1.51e-05
+ 752 CCOOH_X1         0.00e+00
+ 753 CCOOH_X2         0.00e+00
+ 754 CCOOH_X3         0.00e+00
+ 755 CCOOH_X4         0.00e+00
+ 756 CCOOH_X5         0.00e+00
+ 757 CCOOH_X6         0.00e+00
+ 758 CCOOH_X7         0.00e+00
+ 759 CCOOH_X8         0.00e+00
+ 760 CCOOH_X9         0.00e+00
+ 761 OLE2_X1          0.00e+00
+ 762 OLE2_X2          2.51e-06
+ 763 OLE2_X3          0.00e+00
+ 764 OLE2_X4          4.53e-06
+ 765 OLE2_X5          2.45e-06
+ 766 OLE2_X6          0.00e+00
+ 767 OLE2_X7          9.69e-06
+ 768 OLE2_X8          1.10e-06
+ 769 OLE2_X9          1.02e-06
+ 770 ACET_X1          0.00e+00
+ 771 ACET_X2          0.00e+00
+ 772 ACET_X3          0.00e+00
+ 773 ACET_X4          0.00e+00
+ 774 ACET_X5          0.00e+00
+ 775 ACET_X6          0.00e+00
+ 776 ACET_X7          0.00e+00
+ 777 ACET_X8          0.00e+00
+ 778 ACET_X9          0.00e+00
+ 779 TERP_X1          6.45e-05
+ 780 TERP_X2          7.14e-04
+ 781 TERP_X3          1.44e-04
+ 782 TERP_X4          8.41e-05
+ 783 TERP_X5          1.24e-04
+ 784 TERP_X6          4.58e-05
+ 785 TERP_X7          3.01e-05
+ 786 TERP_X8          2.40e-05
+ 787 TERP_X9          1.60e-04
+ 788 SESQ_X1          0.00e+00
+ 789 SESQ_X2          0.00e+00
+ 790 SESQ_X3          0.00e+00
+ 791 SESQ_X4          0.00e+00
+ 792 SESQ_X5          0.00e+00
+ 793 SESQ_X6          0.00e+00
+ 794 SESQ_X7          0.00e+00
+ 795 SESQ_X8          0.00e+00
+ 796 SESQ_X9          0.00e+00
+ 797 N2O5_X1          0.00e+00
+ 798 N2O5_X2          0.00e+00
+ 799 N2O5_X3          0.00e+00
+ 800 N2O5_X4          0.00e+00
+ 801 N2O5_X5          0.00e+00
+ 802 N2O5_X6          0.00e+00
+ 803 N2O5_X7          0.00e+00
+ 804 N2O5_X8          0.00e+00
+ 805 N2O5_X9          0.00e+00
+ 806 HNO4_X1          0.00e+00
+ 807 HNO4_X2          0.00e+00
+ 808 HNO4_X3          0.00e+00
+ 809 HNO4_X4          0.00e+00
+ 810 HNO4_X5          0.00e+00
+ 811 HNO4_X6          0.00e+00
+ 812 HNO4_X7          0.00e+00
+ 813 HNO4_X8          0.00e+00
+ 814 HNO4_X9          0.00e+00
+ 815 PAN_X1           0.00e+00
+ 816 PAN_X2           0.00e+00
+ 817 PAN_X3           0.00e+00
+ 818 PAN_X4           0.00e+00
+ 819 PAN_X5           0.00e+00
+ 820 PAN_X6           0.00e+00
+ 821 PAN_X7           0.00e+00
+ 822 PAN_X8           0.00e+00
+ 823 PAN_X9           0.00e+00
+ 824 PAN2_X1          0.00e+00
+ 825 PAN2_X2          0.00e+00
+ 826 PAN2_X3          0.00e+00
+ 827 PAN2_X4          0.00e+00
+ 828 PAN2_X5          0.00e+00
+ 829 PAN2_X6          0.00e+00
+ 830 PAN2_X7          0.00e+00
+ 831 PAN2_X8          0.00e+00
+ 832 PAN2_X9          0.00e+00
+ 833 RCO3_X1          0.00e+00
+ 834 RCO3_X2          0.00e+00
+ 835 RCO3_X3          0.00e+00
+ 836 RCO3_X4          0.00e+00
+ 837 RCO3_X5          0.00e+00
+ 838 RCO3_X6          0.00e+00
+ 839 RCO3_X7          0.00e+00
+ 840 RCO3_X8          0.00e+00
+ 841 RCO3_X9          0.00e+00
+ 842 PBZN_X1          0.00e+00
+ 843 PBZN_X2          0.00e+00
+ 844 PBZN_X3          0.00e+00
+ 845 PBZN_X4          0.00e+00
+ 846 PBZN_X5          0.00e+00
+ 847 PBZN_X6          0.00e+00
+ 848 PBZN_X7          0.00e+00
+ 849 PBZN_X8          0.00e+00
+ 850 PBZN_X9          0.00e+00
+ 851 BZCO3_X1         0.00e+00
+ 852 BZCO3_X2         0.00e+00
+ 853 BZCO3_X3         0.00e+00
+ 854 BZCO3_X4         0.00e+00
+ 855 BZCO3_X5         0.00e+00
+ 856 BZCO3_X6         0.00e+00
+ 857 BZCO3_X7         0.00e+00
+ 858 BZCO3_X8         0.00e+00
+ 859 BZCO3_X9         0.00e+00
+ 860 MAPAN_X1         0.00e+00
+ 861 MAPAN_X2         0.00e+00
+ 862 MAPAN_X3         0.00e+00
+ 863 MAPAN_X4         0.00e+00
+ 864 MAPAN_X5         0.00e+00
+ 865 MAPAN_X6         0.00e+00
+ 866 MAPAN_X7         0.00e+00
+ 867 MAPAN_X8         0.00e+00
+ 868 MAPAN_X9         0.00e+00
+ 869 MACO3_X1         0.00e+00
+ 870 MACO3_X2         0.00e+00
+ 871 MACO3_X3         0.00e+00
+ 872 MACO3_X4         0.00e+00
+ 873 MACO3_X5         0.00e+00
+ 874 MACO3_X6         0.00e+00
+ 875 MACO3_X7         0.00e+00
+ 876 MACO3_X8         0.00e+00
+ 877 MACO3_X9         0.00e+00
+ 878 NPHE_X1          0.00e+00
+ 879 NPHE_X2          0.00e+00
+ 880 NPHE_X3          0.00e+00
+ 881 NPHE_X4          0.00e+00
+ 882 NPHE_X5          0.00e+00
+ 883 NPHE_X6          0.00e+00
+ 884 NPHE_X7          0.00e+00
+ 885 NPHE_X8          0.00e+00
+ 886 NPHE_X9          0.00e+00
+ 887 HCOCO3_X1        0.00e+00
+ 888 HCOCO3_X2        0.00e+00
+ 889 HCOCO3_X3        0.00e+00
+ 890 HCOCO3_X4        0.00e+00
+ 891 HCOCO3_X5        0.00e+00
+ 892 HCOCO3_X6        0.00e+00
+ 893 HCOCO3_X7        0.00e+00
+ 894 HCOCO3_X8        0.00e+00
+ 895 HCOCO3_X9        0.00e+00
+ 896 RNO3_X1          0.00e+00
+ 897 RNO3_X2          0.00e+00
+ 898 RNO3_X3          0.00e+00
+ 899 RNO3_X4          0.00e+00
+ 900 RNO3_X5          0.00e+00
+ 901 RNO3_X6          0.00e+00
+ 902 RNO3_X7          0.00e+00
+ 903 RNO3_X8          0.00e+00
+ 904 RNO3_X9          0.00e+00
+ 905 HO2H_X1          0.00e+00
+ 906 HO2H_X2          0.00e+00
+ 907 HO2H_X3          0.00e+00
+ 908 HO2H_X4          0.00e+00
+ 909 HO2H_X5          0.00e+00
+ 910 HO2H_X6          0.00e+00
+ 911 HO2H_X7          0.00e+00
+ 912 HO2H_X8          0.00e+00
+ 913 HO2H_X9          0.00e+00
+ 914 COOH_X1          0.00e+00
+ 915 COOH_X2          0.00e+00
+ 916 COOH_X3          0.00e+00
+ 917 COOH_X4          0.00e+00
+ 918 COOH_X5          0.00e+00
+ 919 COOH_X6          0.00e+00
+ 920 COOH_X7          0.00e+00
+ 921 COOH_X8          0.00e+00
+ 922 COOH_X9          0.00e+00
+ 923 MEOH_X1          9.35e-02
+ 924 MEOH_X2          2.20e-03
+ 925 MEOH_X3          0.00e+00
+ 926 MEOH_X4          0.00e+00
+ 927 MEOH_X5          5.52e-03
+ 928 MEOH_X6          7.31e-04
+ 929 MEOH_X7          2.47e-03
+ 930 MEOH_X8          0.00e+00
+ 931 MEOH_X9          3.58e-03
+ 932 CRES_X1          0.00e+00
+ 933 CRES_X2          0.00e+00
+ 934 CRES_X3          0.00e+00
+ 935 CRES_X4          0.00e+00
+ 936 CRES_X5          0.00e+00
+ 937 CRES_X6          0.00e+00
+ 938 CRES_X7          0.00e+00
+ 939 CRES_X8          0.00e+00
+ 940 CRES_X9          0.00e+00
+ 941 ROOH_X1          0.00e+00
+ 942 ROOH_X2          0.00e+00
+ 943 ROOH_X3          0.00e+00
+ 944 ROOH_X4          0.00e+00
+ 945 ROOH_X5          0.00e+00
+ 946 ROOH_X6          0.00e+00
+ 947 ROOH_X7          0.00e+00
+ 948 ROOH_X8          0.00e+00
+ 949 ROOH_X9          0.00e+00
+ 950 R6OOH_X1         0.00e+00
+ 951 R6OOH_X2         0.00e+00
+ 952 R6OOH_X3         0.00e+00
+ 953 R6OOH_X4         0.00e+00
+ 954 R6OOH_X5         0.00e+00
+ 955 R6OOH_X6         0.00e+00
+ 956 R6OOH_X7         0.00e+00
+ 957 R6OOH_X8         0.00e+00
+ 958 R6OOH_X9         0.00e+00
+ 959 RAOOH_X1         0.00e+00
+ 960 RAOOH_X2         0.00e+00
+ 961 RAOOH_X3         0.00e+00
+ 962 RAOOH_X4         0.00e+00
+ 963 RAOOH_X5         0.00e+00
+ 964 RAOOH_X6         0.00e+00
+ 965 RAOOH_X7         0.00e+00
+ 966 RAOOH_X8         0.00e+00
+ 967 RAOOH_X9         0.00e+00
+ 968 CATL_X1          0.00e+00
+ 969 CATL_X2          0.00e+00
+ 970 CATL_X3          0.00e+00
+ 971 CATL_X4          0.00e+00
+ 972 CATL_X5          0.00e+00
+ 973 CATL_X6          0.00e+00
+ 974 CATL_X7          0.00e+00
+ 975 CATL_X8          0.00e+00
+ 976 CATL_X9          0.00e+00
+ 977 XYNL_X1          0.00e+00
+ 978 XYNL_X2          0.00e+00
+ 979 XYNL_X3          0.00e+00
+ 980 XYNL_X4          0.00e+00
+ 981 XYNL_X5          0.00e+00
+ 982 XYNL_X6          0.00e+00
+ 983 XYNL_X7          0.00e+00
+ 984 XYNL_X8          0.00e+00
+ 985 XYNL_X9          0.00e+00
+ 986 PHEN_X1          1.04e-05
+ 987 PHEN_X2          2.17e-04
+ 988 PHEN_X3          4.87e-06
+ 989 PHEN_X4          0.00e+00
+ 990 PHEN_X5          1.06e-04
+ 991 PHEN_X6          4.48e-05
+ 992 PHEN_X7          1.82e-04
+ 993 PHEN_X8          0.00e+00
+ 994 PHEN_X9          1.13e-05
+ 995 ETOH_X1          0.00e+00
+ 996 ETOH_X2          0.00e+00
+ 997 ETOH_X3          4.36e-04
+ 998 ETOH_X4          1.72e-04
+ 999 ETOH_X5          4.93e-04
+1000 ETOH_X6          0.00e+00
+1001 ETOH_X7          2.59e-04
+1002 ETOH_X8          1.35e-04
+1003 ETOH_X9          9.91e-03
+1004 BENZENE_X1       0.00e+00
+1005 BENZENE_X2       4.43e-05
+1006 BENZENE_X3       3.60e-05
+1007 BENZENE_X4       8.19e-05
+1008 BENZENE_X5       1.08e-04
+1009 BENZENE_X6       4.69e-07
+1010 BENZENE_X7       8.61e-04
+1011 BENZENE_X8       1.18e-04
+1012 BENZENE_X9       0.00e+00
+1013 BENZRO2_X1       0.00e+00
+1014 BENZRO2_X2       0.00e+00
+1015 BENZRO2_X3       0.00e+00
+1016 BENZRO2_X4       0.00e+00
+1017 BENZRO2_X5       0.00e+00
+1018 BENZRO2_X6       0.00e+00
+1019 BENZRO2_X7       0.00e+00
+1020 BENZRO2_X8       0.00e+00
+1021 BENZRO2_X9       0.00e+00
+1022 ARO1_X1          3.53e-05
+1023 ARO1_X2          5.72e-05
+1024 ARO1_X3          2.59e-04
+1025 ARO1_X4          6.48e-05
+1026 ARO1_X5          6.74e-06
+1027 ARO1_X6          7.81e-05
+1028 ARO1_X7          2.84e-04
+1029 ARO1_X8          3.56e-05
+1030 ARO1_X9          1.70e-05
+1031 ARO1RO2_X1       0.00e+00
+1032 ARO1RO2_X2       0.00e+00
+1033 ARO1RO2_X3       0.00e+00
+1034 ARO1RO2_X4       0.00e+00
+1035 ARO1RO2_X5       0.00e+00
+1036 ARO1RO2_X6       0.00e+00
+1037 ARO1RO2_X7       0.00e+00
+1038 ARO1RO2_X8       0.00e+00
+1039 ARO1RO2_X9       0.00e+00
+1040 ARO2_X1          4.11e-06
+1041 ARO2_X2          9.74e-06
+1042 ARO2_X3          2.67e-05
+1043 ARO2_X4          6.19e-06
+1044 ARO2_X5          7.85e-07
+1045 ARO2_X6          7.72e-06
+1046 ARO2_X7          1.53e-05
+1047 ARO2_X8          3.36e-06
+1048 ARO2_X9          2.18e-06
+1049 ARO2RO2_X1       0.00e+00
+1050 ARO2RO2_X2       0.00e+00
+1051 ARO2RO2_X3       0.00e+00
+1052 ARO2RO2_X4       0.00e+00
+1053 ARO2RO2_X5       0.00e+00
+1054 ARO2RO2_X6       0.00e+00
+1055 ARO2RO2_X7       0.00e+00
+1056 ARO2RO2_X8       0.00e+00
+1057 ARO2RO2_X9       0.00e+00
+1058 BALD_X1          3.78e-06
+1059 BALD_X2          4.83e-05
+1060 BALD_X3          6.04e-07
+1061 BALD_X4          7.87e-06
+1062 BALD_X5          7.38e-05
+1063 BALD_X6          1.87e-05
+1064 BALD_X7          5.38e-05
+1065 BALD_X8          3.89e-07
+1066 BALD_X9          1.20e-07
+1067 CH4_X1           0.00e+00
+1068 CH4_X2           0.00e+00
+1069 CH4_X3           0.00e+00
+1070 CH4_X4           0.00e+00
+1071 CH4_X5           0.00e+00
+1072 CH4_X6           0.00e+00
+1073 CH4_X7           0.00e+00
+1074 CH4_X8           0.00e+00
+1075 CH4_X9           0.00e+00
+1076 AFG4_X1          0.00e+00
+1077 AFG4_X2          0.00e+00
+1078 AFG4_X3          0.00e+00
+1079 AFG4_X4          0.00e+00
+1080 AFG4_X5          0.00e+00
+1081 AFG4_X6          0.00e+00
+1082 AFG4_X7          0.00e+00
+1083 AFG4_X8          0.00e+00
+1084 AFG4_X9          0.00e+00
+1085 ALK1_X1          0.00e+00
+1086 ALK1_X2          0.00e+00
+1087 ALK1_X3          0.00e+00
+1088 ALK1_X4          0.00e+00
+1089 ALK1_X5          0.00e+00
+1090 ALK1_X6          0.00e+00
+1091 ALK1_X7          0.00e+00
+1092 ALK1_X8          0.00e+00
+1093 ALK1_X9          0.00e+00
+1094 ALK2_X1          2.05e-05
+1095 ALK2_X2          0.00e+00
+1096 ALK2_X3          9.08e-05
+1097 ALK2_X4          2.84e-05
+1098 ALK2_X5          1.51e-05
+1099 ALK2_X6          1.20e-05
+1100 ALK2_X7          3.05e-04
+1101 ALK2_X8          4.08e-05
+1102 ALK2_X9          2.26e-05
+1103 ALK3_X1          1.97e-05
+1104 ALK3_X2          1.02e-05
+1105 ALK3_X3          1.53e-05
+1106 ALK3_X4          3.86e-04
+1107 ALK3_X5          5.85e-05
+1108 ALK3_X6          1.20e-04
+1109 ALK3_X7          1.70e-04
+1110 ALK3_X8          2.09e-04
+1111 ALK3_X9          1.20e-05
+1112 ALK4_X1          1.59e-04
+1113 ALK4_X2          2.50e-04
+1114 ALK4_X3          2.24e-04
+1115 ALK4_X4          1.15e-03
+1116 ALK4_X5          8.18e-05
+1117 ALK4_X6          3.03e-04
+1118 ALK4_X7          2.83e-03
+1119 ALK4_X8          9.77e-04
+1120 ALK4_X9          2.65e-04
+1121 ALK5_X1          0.00e+00
+1122 ALK5_X2          0.00e+00
+1123 ALK5_X3          0.00e+00
+1124 ALK5_X4          0.00e+00
+1125 ALK5_X5          0.00e+00
+1126 ALK5_X6          0.00e+00
+1127 ALK5_X7          0.00e+00
+1128 ALK5_X8          0.00e+00
+1129 ALK5_X9          0.00e+00
+1130 ALK5RXN_X1       0.00e+00
+1131 ALK5RXN_X2       0.00e+00
+1132 ALK5RXN_X3       0.00e+00
+1133 ALK5RXN_X4       0.00e+00
+1134 ALK5RXN_X5       0.00e+00
+1135 ALK5RXN_X6       0.00e+00
+1136 ALK5RXN_X7       0.00e+00
+1137 ALK5RXN_X8       0.00e+00
+1138 ALK5RXN_X9       0.00e+00
+1139 BACL_X1          0.00e+00
+1140 BACL_X2          0.00e+00
+1141 BACL_X3          0.00e+00
+1142 BACL_X4          0.00e+00
+1143 BACL_X5          0.00e+00
+1144 BACL_X6          0.00e+00
+1145 BACL_X7          0.00e+00
+1146 BACL_X8          0.00e+00
+1147 BACL_X9          0.00e+00
