@@ -61,48 +61,64 @@ def pmf_output_to_df(n, p, loc):
     return profile_conc, profile_perc_spec, profile_perc_factor, contribution
 
 
-def plot_pmf_profile(n,p,profile_perc_spec,profile_conc):
+def plot_pmf_profile(n,p,profile_perc_spec,profile_conc, factor_name):
     """
     Plot PMF-solved profile on precentage and concentration of species using output df
     input: n = number of species 
            p = number of factors
            profile_prec_spec = df of factor profile in precentage of each species
            profile_conc = df of factor profile in concentration
+           factor_name = a list of factor name
     output: plot of PMF-solved profile on precentage and concentration of species
     """
-    
-    fig, ax=plt.subplots(nrows=p, figsize=(15,2*p+3), sharey=True, sharex=True)
+    plt.rcParams.update({'font.size': 14})
+    index = ['a','b','c','d','e','f','g','h','i','j','k','l']
+
+    fig, ax=plt.subplots(nrows=p, figsize=(15,2*p+1), sharey=True, sharex=True)
     
     j=0
     for i in range(p): 
         ax[i].bar(profile_perc_spec.iloc[:,0], profile_perc_spec.iloc[:,j+1], label='% of species')
-        plt.xticks(rotation = 90, fontsize=12)
-    
+        
+        plt.xticks(rotation = 90) 
+        ax[i].set_yticks(np.arange(0, 100, 20))
+
+        if i==0:
+            ax[i].text(0.01, 0.6, '('+index[i]+') '+factor_name[i], horizontalalignment='left', verticalalignment='center', transform=ax[i].transAxes, fontweight='bold')
+        else:
+            ax[i].text(0.01, 0.85, '('+index[i]+') '+factor_name[i], horizontalalignment='left', verticalalignment='center', transform=ax[i].transAxes, fontweight='bold')
+
+        # second y axis for concentration
         ax1=ax[i].twinx()
         ax1.scatter(profile_conc.iloc[:,0], profile_conc.iloc[:,j+1], color='red',label='Concentration')
-        #ax1.set_yscale('log')
         if i == 0:
             ax1.legend(loc='upper right')
         j=j+1
     
-    ax[0].legend(loc='upper left')   
-    fig.text(0.09, 0.5, '% of species', va='center', rotation='vertical', fontsize=14)
-    fig.text(0.93, 0.5, 'Concentration (ppbv)', va='center', rotation='vertical', fontsize=14)
-    
+    ax[0].legend(loc='upper left') 
+    fig.text(0.09, 0.5, '% of species', va='center', rotation='vertical')
+    fig.text(0.93, 0.5, 'Concentration (ppbv)', va='center', rotation='vertical')
+    #plt.tight_layout()
+
     plt.show()
+    return fig
 
 
-def plot_factor_time_series(n,p,contribution):
+def plot_factor_time_series(n,p,contribution, factor_name):
     """
     Plot time series of PMF-solved factor in normalized contribution
     input: n = number of species
            p = number of factors
            contribution = contribution of every factors to daily observed total concentration
+           factor_name = a list of factor name
     output: plot of contribution time series
     """
     
     import matplotlib.dates as mdates
-    fig, ax=plt.subplots(nrows=p, figsize=(15,2*p+1), sharex=True)
+    plt.rcParams.update({'font.size': 14})
+    index = ['a','b','c','d','e','f','g','h','i','j','k','l']
+
+    fig, ax=plt.subplots(nrows=p, figsize=(15,2*p-1), sharex=True)
 
     j=0
     for i in range(p):
@@ -118,11 +134,18 @@ def plot_factor_time_series(n,p,contribution):
         ax[i].fill_between(days, *ax[i].get_ylim(), where=weekends, facecolor='red', alpha=.1, label='Weekend')
         ax[i].set_xlim(xmin, xmax) # set limits back to default values    
     
+    # add factor name
+        ax[i].text(0.01, 0.85, '('+index[i]+') '+factor_name[i], 
+                   horizontalalignment='left', verticalalignment='center', 
+                   transform=ax[i].transAxes, fontweight='bold')
+
     ax[0].legend()    
-    fig.text(0.09, 0.5, 'Normalized contribution', va='center', rotation='vertical', fontsize=14)
-    plt.xlabel('Date', fontsize=14)
+    #fig.text(0.02, 0.5, 'Normalized contribution', va='center', rotation='vertical')
+    plt.xlabel('Date')
     
+    plt.tight_layout()
     plt.show()
+    return fig
 
 
 def reorder_factor(df, new_order):
