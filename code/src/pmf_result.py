@@ -118,7 +118,7 @@ def plot_factor_time_series(n,p,contribution, factor_name):
     plt.rcParams.update({'font.size': 14})
     index = ['a','b','c','d','e','f','g','h','i','j','k','l']
 
-    fig, ax=plt.subplots(nrows=p, figsize=(15,2*p-1), sharex=True)
+    fig, ax=plt.subplots(nrows=p, figsize=(13,2*p-1), sharex=True)
 
     j=0
     for i in range(p):
