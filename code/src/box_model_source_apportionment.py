@@ -10,10 +10,11 @@ import matplotlib.pyplot as plt
 
 def treat_box_model_output(filepath):
     """
-    
-    
-    
+    transfer box model output results to df
+    input: filepath = location of the output file
+    output: df = df of box model output ['Date','Time','O3','O3_X1','O3_X2','O3_X3','O3_X4', ...], where Time = time in UV reaction, O3 = vanilla O3, O3_X1 = O3 from X1, etc.
     """
+    
     # df to store O3 source concentration
     df = pd.DataFrame(columns=['Date','Time','O3','O3_X1','O3_X2','O3_X3','O3_X4',
                                'O3_X5','O3_X6','O3_X7','O3_X8','O3_X9'])
@@ -38,10 +39,11 @@ def treat_box_model_output(filepath):
     
     # get date
     date = filepath.split('/')[-1][8:18]
-    df['Date'] = date
-
-    df.iloc[:,2:] = df.iloc[:,2:].astype(float)
-
+    df['Date'] = pd.to_datetime(date)
+    for i in df.columns[2:]:
+        df[i] = df[i].astype(float)
+    df['Time'] = df['Time'].astype(int)
+    
     return df
 
 
