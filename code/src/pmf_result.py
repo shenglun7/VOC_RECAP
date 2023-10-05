@@ -9,6 +9,28 @@ import matplotlib.pyplot as plt
 from sklearn.linear_model import LinearRegression
 
 
+def reorder_factor(df, new_order):
+    """
+    Re-order the factor on columns in df based on the name of factors 
+    Input: p = number of factors 
+           df = data frame needs reorder
+           new_order = a list of new ordered column
+    Output: a reordered df
+    """
+
+    # get number of factor
+    p = df.shape[1]-1
+    
+    # get old order
+    cols = df.columns.tolist()
+    
+    # re-order by new-order
+    cols[1:p+1] = new_order
+    df = df[cols]
+
+    return df
+
+
 def pmf_output_to_df(n, p, loc):
     """
     Find the output files from EPAv5.0 PMF model and generate dataframes of PMF profile and contribution.
@@ -148,58 +170,35 @@ def plot_factor_time_series(n,p,contribution, factor_name):
     return fig
 
 
-def reorder_factor(df, new_order):
-    """
-    Re-order the factor on columns in df based on the name of factors 
-    Input: p = number of factors 
-           df = data frame needs reorder
-           new_order = a list of new ordered column
-    Output: a reordered df
-    """
-
-    # get number of factor
-    p = df.shape[1]-1
-    
-    # get old order
-    cols = df.columns.tolist()
-    
-    # re-order by new-order
-    cols[1:p+1] = new_order
-    df = df[cols]
-
-    return df
-
-
-def plot_CPF(new_order, contribution, figname):
+def plot_CPF(contribution, df_wind, factor_name):
     """
     function to calculate cpf for each factor and plo  t as windrose
-    Input: new_order = reordered factor
+    Input: factor_name = name of factors
            contribution = df from treat_PMF_output()
-           figname = specific file name for windrose
+           df_wind = df of wind direction and speed (daily)
     Output: windrose
     """
 
     # merge contribution with wind profile
-    contribution_wind=contribution.merge(df_wind_filter[['Date','drct', 'sped']], on='Date', how='left')
+    contribution_wind=contribution.merge(df_wind[['Date','drct', 'sped']], 
+                                         on='Date', how='left')
 
     # bin contribution by wind direction
     contribution_wind.loc[contribution_wind['drct'].notnull(),'bin']=\
         pd.cut(contribution_wind.loc[contribution_wind['drct'].notnull(),'drct'], np.arange(0,360,30))
-
     df = contribution_wind
 
     # count total events in every factor in every binned wind direction
     df_CPF = df.groupby('bin').count().reset_index()
     df_CPF_count_total = df_CPF.drop(columns={'Date','drct','sped'})
 
-    # count events in upper 25% for every factor in every binned wind direction
+    # count events in upper 25% for every factor in every binned wind direction (df_CPF_count_upper), and count for total events (df_CPF_count_total)
     df_CPF_count_upper = df_CPF.drop(columns={'Date','drct','sped'})
-    for col in df.columns:
-        if 'Factor' in col:
-            for bin_val in df['bin'].unique():
-                threshold = df.loc[:, col].quantile(0.75)
-                count_upper = df[(df['bin']==bin_val)&(df[col]>threshold)].shape[0]
-                df_CPF_count_upper.loc[df_CPF_count_upper['bin']==bin_val, col] = count_upper  
+    for col in df_CPF_count_upper.columns[1:]:
+        for bin_val in df['bin'].unique():
+            threshold = df.loc[:, col].quantile(0.75)
+            count_upper = df[(df['bin']==bin_val)&(df[col]>threshold)].shape[0]
+            df_CPF_count_upper.loc[df_CPF_count_upper['bin']==bin_val, col] = count_upper  
             
     # calculate mean of bin for windrose plotting
     df_CPF_count_upper['bin_mean']=df_CPF_count_upper.bin.apply(lambda x: x.mid)
@@ -209,19 +208,17 @@ def plot_CPF(new_order, contribution, figname):
     df_CPF_count_total = df_CPF_count_total.replace(1,np.nan)
     df_CPF_count_total = df_CPF_count_total.replace(2,np.nan)
     
-    
     # calculate CPF for each factor
-    df_ratio = df_CPF_count_upper.filter(like='Factor', axis=1).\
-                   divide(df_CPF_count_total.filter(like='Factor', axis=1))
+    df_ratio = df_CPF_count_upper.iloc[:,1:-1].divide(df_CPF_count_total.iloc[:,1:-1])
     df_ratio['bin_mean'] = df_CPF_count_upper['bin_mean']
-    
+
     # plot CPF 
     import plotly.express as px
-    for i in new_order:  
+    for i in factor_name:  
         fig = px.bar_polar(df_ratio, r=i,
                            theta='bin_mean',
                            width=400, height=400)
         fig.update_layout(margin=dict(l=50, r=50, t=50, b=50),
-                          title={'text': i})
+                          title={'text': i}, font=dict(size=12))
+        fig.write_image('../../result/CPF_'+i+'.png')
         fig.show()
-        
