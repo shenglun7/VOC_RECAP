@@ -1,0 +1,80 @@
+Parameter Name,Arithmetic Mean,Units of Measure,number of carbon,
+"1,1,2-Trichloro-1,2,2-trifluoroethane",0.1,Parts per billion Carbon,2,0.05
+"1,2,3-Trimethylbenzene",0.32,Parts per billion Carbon,9,0.035555556
+"1,2,4-Trimethylbenzene",0.744666667,Parts per billion Carbon,9,0.082740741
+"1,2-Dichlorobenzene",0.056666667,Parts per billion Carbon,6,0.009444444
+"1,2-Dichloropropane",0.0015,Parts per billion Carbon,3,0.0005
+"1,3,5-Trimethylbenzene",0.12,Parts per billion Carbon,9,0.013333333
+"1,3-Butadiene",0.12,Parts per billion Carbon,4,0.03
+"1,4-Dichlorobenzene",0.203333333,Parts per billion Carbon,6,0.033888889
+1-Butene,0.136666667,Parts per billion Carbon,4,0.034166667
+1-Pentene,0.121333333,Parts per billion Carbon,5,0.024266667
+"2,2,4-Trimethylpentane",1.856666667,Parts per billion Carbon,8,0.232083333
+"2,2-Dimethylbutane",0.267333333,Parts per billion Carbon,,#DIV/0!
+"2,3,4-Trimethylpentane",0.530666667,Parts per billion Carbon,,#DIV/0!
+"2,3-Dimethylbutane",0.594,Parts per billion Carbon,,#DIV/0!
+"2,3-Dimethylpentane",0.988666667,Parts per billion Carbon,,#DIV/0!
+"2,4-Dimethylpentane",0.654,Parts per billion Carbon,,#DIV/0!
+2-Methylheptane,0.264666667,Parts per billion Carbon,,#DIV/0!
+2-Methylhexane,0.604,Parts per billion Carbon,,#DIV/0!
+2-Methylpentane,1.676666667,Parts per billion Carbon,6,0.279444444
+3-Methylheptane,0.242666667,Parts per billion Carbon,,#DIV/0!
+3-Methylhexane,0.865333333,Parts per billion Carbon,,#DIV/0!
+3-Methylpentane,0.937333333,Parts per billion Carbon,,#DIV/0!
+Acetaldehyde,3.275471698,Parts per billion Carbon,2,1.637735849
+Acetone,11.24137931,Parts per billion Carbon,3,3.747126437
+Acetylene,2.554,Parts per billion Carbon,,#DIV/0!
+Acrolein - Unverified,0.460714286,Parts per billion Carbon,3,0.153571429
+Benzene,1.195333333,Parts per billion Carbon,6,0.199222222
+Bromomethane,0,Parts per billion Carbon,,#DIV/0!
+Carbon tetrachloride,0.083666667,Parts per billion Carbon,1,0.083666667
+Chloroform,0.022333333,Parts per billion Carbon,1,0.022333333
+Cyclohexane,0.418666667,Parts per billion Carbon,6,0.069777778
+Cyclopentane,0.275333333,Parts per billion Carbon,5,0.055066667
+Dichlorodifluoromethane,0.4,Parts per billion Carbon,1,0.4
+Dichloromethane,0.187333333,Parts per billion Carbon,1,0.187333333
+Ethane,9.181333333,Parts per billion Carbon,,#DIV/0!
+Ethylbenzene,0.632682927,Parts per billion Carbon,8,0.079085366
+Ethylene,1.95,Parts per billion Carbon,,#DIV/0!
+Formaldehyde,3.333962264,Parts per billion Carbon,1,3.333962264
+Isobutane,2.019333333,Parts per billion Carbon,4,0.504833333
+Isopentane,14.884,Parts per billion Carbon,5,2.9768
+Isoprene,0.954,Parts per billion Carbon,5,0.1908
+Isopropylbenzene,0.078,Parts per billion Carbon,9,0.008666667
+Methyl chloroform,0,Parts per billion Carbon,2,0
+Methyl ethyl ketone,0.4,Parts per billion Carbon,4,0.1
+Methyl tert-butyl ether,0,Parts per billion Carbon,,#DIV/0!
+Methylcyclohexane,0.496666667,Parts per billion Carbon,,#DIV/0!
+Methylcyclopentane,0.965333333,Parts per billion Carbon,,#DIV/0!
+Propane,8.944666667,Parts per billion Carbon,,#DIV/0!
+Propylene,0.66,Parts per billion Carbon,3,0.22
+Styrene,0.434444444,Parts per billion Carbon,8,0.054305556
+Sum of PAMS target compounds,75.13333333,Parts per billion Carbon,,#DIV/0!
+Tetrachloroethylene,0.01,Parts per billion Carbon,2,0.005
+Toluene,3.832222222,Parts per billion Carbon,7,0.547460317
+Total NMOC (non-methane organic compound),109.3386667,Parts per billion Carbon,,#DIV/0!
+Trichloroethylene,0,Parts per billion Carbon,2,0
+Trichlorofluoromethane,0.2,Parts per billion Carbon,1,0.2
+Vinyl chloride,0,Parts per billion Carbon,,#DIV/0!
+"cis-1,3-Dichloropropene",0.2,Parts per billion Carbon,,#DIV/0!
+cis-2-Butene,0.038,Parts per billion Carbon,,#DIV/0!
+cis-2-Pentene,0.059333333,Parts per billion Carbon,5,0.011866667
+m-Diethylbenzene,0.081333333,Parts per billion Carbon,,#DIV/0!
+m-Ethyltoluene,0.315333333,Parts per billion Carbon,,#DIV/0!
+m/p Xylene,1.687777778,Parts per billion Carbon,8,0.210972222
+n-Butane,3.374,Parts per billion Carbon,4,0.8435
+n-Decane,0.216666667,Parts per billion Carbon,,#DIV/0!
+n-Heptane,0.593333333,Parts per billion Carbon,7,0.084761905
+n-Hexane,0.952666667,Parts per billion Carbon,6,0.158777778
+n-Nonane,0.188666667,Parts per billion Carbon,,#DIV/0!
+n-Octane,0.31,Parts per billion Carbon,,#DIV/0!
+n-Pentane,2.433333333,Parts per billion Carbon,5,0.486666667
+n-Propylbenzene,0.115333333,Parts per billion Carbon,9,0.012814815
+n-Undecane,0.066,Parts per billion Carbon,,#DIV/0!
+o-Ethyltoluene,0.152,Parts per billion Carbon,9,0.016888889
+o-Xylene,0.689555556,Parts per billion Carbon,8,0.086194444
+p-Diethylbenzene,0.100666667,Parts per billion Carbon,,#DIV/0!
+p-Ethyltoluene,0.15,Parts per billion Carbon,,#DIV/0!
+"trans-1,3-Dichloropropene",0.2,Parts per billion Carbon,,#DIV/0!
+trans-2-Butene,0.039333333,Parts per billion Carbon,,#DIV/0!
+trans-2-Pentene,0.118666667,Parts per billion Carbon,,#DIV/0!
