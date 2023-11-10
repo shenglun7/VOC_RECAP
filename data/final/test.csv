@@ -1,0 +1,99 @@
+Parameter,"('Parameter Name', '')","('Arithmetic Mean', 'mean')","('Arithmetic Mean', 'std')","('Units of Measure', 'first')"
+n-Butane,n-Butane,4.15,1.7778716450314678,Parts per billion Carbon
+Isobutane,Isobutane,2.3103333333333333,1.0256586893925472,Parts per billion Carbon
+n-Pentane,n-Pentane,2.4170000000000003,1.1414604982063625,Parts per billion Carbon
+Isopentane,Isopentane,14.776333333333334,5.837516290065632,Parts per billion Carbon
+n-Hexane,n-Hexane,0.975,0.5100016903285037,Parts per billion Carbon
+Isohexane,,,,
+n-Heptane,n-Heptane,0.6353333333333333,0.31224143325906983,Parts per billion Carbon
+Propylene,Propylene,0.824,0.388148567361555,Parts per billion Carbon
+1-Butene + Isobutylene,,,,
+"1,3-Butadiene","1,3-Butadiene",0.12857142857142856,0.1143891871129627,Parts per billion Carbon
+cis-2-Pentene,cis-2-Pentene,0.05566666666666666,0.032976829204273354,Parts per billion Carbon
+Benzene,Benzene,1.2866,0.578453563609496,Parts per billion Carbon
+Toluene,Toluene,3.6692,1.7162242324829284,Parts per billion Carbon
+Ethylbenzene,Ethylbenzene,0.6801086956521739,0.2452829474691608,Parts per billion Carbon
+"m,p-Xylene",,,,
+o-Xylene,o-Xylene,0.8005,0.3896109818417817,Parts per billion Carbon
+"1,2,4-Trimethylbenzene","1,2,4-Trimethylbenzene",0.999,0.4781166356040953,Parts per billion Carbon
+p-Ethyltoluene,p-Ethyltoluene,0.14833333333333334,0.08170946567937644,Parts per billion Carbon
+Propylbenzene,,,,
+Isopropylbenzene,Isopropylbenzene,0.09766666666666667,0.04446488993331265,Parts per billion Carbon
+Styrene,Styrene,0.4006,0.27431022768045127,Parts per billion Carbon
+p-Cymene,,,,
+n-Butylbenzene,,,,
+tert-Butylbenzene,,,,
+Naphthalene,,,,
+1-Methylnaphthalene,,,,
+2-Methylnaphthalene,,,,
+Azobenzene,,,,
+Isoprene,Isoprene,0.6673333333333333,0.47208951031253216,Parts per billion Carbon
+α-Pinene,,,,
+Limonene,,,,
+Methyl vinyl ketone (MVK),,,,
+Methanol,,,,
+Formaldehyde,Formaldehyde,3.027027027027027,1.1023383983446342,Parts per billion Carbon
+Ethanol,,,,
+Acetaldehyde,Acetaldehyde,2.6837837837837837,1.0829977456087827,Parts per billion Carbon
+Acetone,Acetone,3.345,2.7904866581787635,Parts per billion Carbon
+Acrolein,,,,
+Propanal,,,,
+Methyl ethyl ketone (MEK)*,,,,
+Butanal,,,,
+3-Methylbutyraldehyde,,,,
+Hexanal,,,,
+Cyclohexanone,,,,
+Bis(2-chloroethyl) ether,,,,
+Bis(2-chloroethoxy)methane,,,,
+Benzyl alcohol,,,,
+Benzaldehyde,,,,
+"m,p-Tolualdehyde",,,,
+Phenylacetaldehyde,,,,
+Methyl acetate,,,,
+n-Butyl acetate,,,,
+Phenol,,,,
+"2,4-Dimethylphenol",,,,
+m-Cresol,,,,
+o-Cresol,,,,
+p-Cresol,,,,
+Isophorone,,,,
+Nitrobenzene,,,,
+2-Nitrophenol,,,,
+Dibenzofuran,,,,
+Diethylphthalate,,,,
+Dimethylphthalate,,,,
+N-Nitrosodipropylamine,,,,
+N-Nitrosodimethylamine,,,,
+Dichloromethane,Dichloromethane,0.26157142857142857,0.16845104835999625,Parts per billion Carbon
+Bromochloromethane,,,,
+Chloroform,Chloroform,0.01628571428571429,0.022078347224125907,Parts per billion Carbon
+Bromoform,,,,
+Bromodichloromethane,,,,
+Chlorodibromomethane,,,,
+Carbon Tetrachloride,,,,
+Dichlorodifluoromethane,Dichlorodifluoromethane,0.4,0.0,Parts per billion Carbon
+Trichlorofluoromethane,Trichlorofluoromethane,0.2,0.0,Parts per billion Carbon
+"1,1,1-Trichloroethane",,,,
+"1,1,2-Trichloroethane",,,,
+"1,1,1,2-Tetrachloroethane",,,,
+"1,1,2,2-Tetrachloroethane",,,,
+CFC-113,,,,
+Dichlorotetrafluoroethane,,,,
+Trichloroethene,,,,
+Tetrachloroethylene,Tetrachloroethylene,0.008285714285714287,0.018802669296427238,Parts per billion Carbon
+Allyl chloride,,,,
+4-Chloro-3-methylphenol,,,,
+"1,2-Dichloropropane","1,2-Dichloropropane",0.003,0.009114654303753,Parts per billion Carbon
+"1,2,3-Trichloropropane",,,,
+"1,1-Dichloropropene",,,,
+"1,3-Dichloropropene",,,,
+"(Z)-1,3-Dichloropropene",,,,
+Chlorobenzene,,,,
+"1,2-Dichlorobenzene","1,2-Dichlorobenzene",0.060000000000000005,0.10039920318408906,Parts per billion Carbon
+"1,3-Dichlorobenzene",,,,
+"1,4-Dichlorobenzene","1,4-Dichlorobenzene",0.22999999999999998,0.13492855252211922,Parts per billion Carbon
+PCBTF,,,,
+Acetonitrile,,,,
+Acrylonitrile,,,,
+D4-siloxane,,,,
+D5-siloxane,,,,
