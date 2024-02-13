@@ -8,8 +8,20 @@ This repository is for data analysis of results from VOC measurements in Pasaden
 
 ## Overview
 This repository contains data, code, result.
-- data
+- code
     - src
     - script
-- code
+- data
+    - raw
+        - /Model_input_nosource: box model input file (no tag)
+        - df_VOC_CARB_Chamber_DNPHcorrected.csv: VOC measurement data in Redlands (DNPH sample corrected)
+        - PMF_input_conc.csv
+        - PMF_input_uncertainty.csv
+        - PMF_species_saprc.csv: PMF input VOC compounds and their SAPRC name
+        - saprc11_rev4_bgX.doc: notes of SAPRC11 tag species
+        - TEMP_PICKDATA_2021-12-31_RL.csv: ambient temperature data, published by CARB
+        - VOC_reactivity_MIR_redlands.csv: VOC reactivity and MIR coefficients
+        - WINSPD_PICKDATA_2021-10-31.csv: ambient wind profile, published by CARB 
+    - intermediate
+    - final
 - result
