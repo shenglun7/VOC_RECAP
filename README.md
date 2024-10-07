@@ -1,6 +1,7 @@
 # VOC_RECAP
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10655470.svg)](https://doi.org/10.5281/zenodo.10655470)
+Citation: https://doi.org/10.1016/j.atmosenv.2024.120847
 
 Shenglun Wu
 Correspondance should be addressed to shlwu@ucdavis.edu
